@@ -1,3117 +1,716 @@
 [
     {
-        "username": "kaelzinn",
-        "display_name": "Bibarel",
-        "avatar_url": "https://cdn.discordapp.com/avatars/602885312368214056/625d09a1b036a812d0b04becaa31b318.png?size=64",
-        "discord_id": 602885312368214056,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "borderline9711",
-        "display_name": "borderline",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1019760080654180472/81d8c78dfe8c13bea0ab91736b4b417d.png?size=64",
-        "discord_id": 1019760080654180472,
-        "has_mestre_mirim": false
-    },
-    {
         "username": "xadrezdiario",
         "display_name": "Daily Chess♟",
         "avatar_url": "https://cdn.discordapp.com/avatars/1199420355840847933/d9566b3fb54c315b5af8dbfa751d41ae.png?size=64",
         "discord_id": 1199420355840847933,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "bhaskara62826",
-        "display_name": "Bhaskara62826",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1458552144671146171/3f16b7fb08fd14a7ba6e0ff07b038b03.png?size=64",
-        "discord_id": 1458552144671146171,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "maxgama765",
-        "display_name": "max",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1128424673680560238/58808bfbd14d323e3d079a97898f334f.png?size=64",
-        "discord_id": 1128424673680560238,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": ".fakez",
-        "display_name": "FakeZin🤠",
-        "avatar_url": "https://cdn.discordapp.com/avatars/393493595233189889/d7ec281f1077ce8432be82bf8fb3000a.png?size=64",
-        "discord_id": 393493595233189889,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "addaaa0907",
-        "display_name": "Addaaa",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1332058347444244554/e95a713958b43bac08713811f23a1026.png?size=64",
-        "discord_id": 1332058347444244554,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "diciplodokrikor",
         "display_name": "krikor sem biceps",
         "avatar_url": "https://cdn.discordapp.com/avatars/735167255926800415/84db9ef28573f0574382cc967d4627cb.png?size=64",
         "discord_id": 735167255926800415,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": ".molhoshoyu",
-        "display_name": "molhoshoyu",
-        "avatar_url": "https://cdn.discordapp.com/avatars/752319210163798016/f388e1b36462618cb00e79fc5824b600.png?size=64",
-        "discord_id": 752319210163798016,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "magnum_chess",
         "display_name": "Magnum",
         "avatar_url": "https://cdn.discordapp.com/avatars/1211556342079295538/2bd2cd1f70bdc6a47bd6afefca8081a4.png?size=64",
         "discord_id": 1211556342079295538,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "pekol2837",
-        "display_name": "Pekol",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-        "discord_id": 1423530082298888194,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "rquatro",
         "display_name": "Rquatru",
         "avatar_url": "https://cdn.discordapp.com/avatars/520355381776482305/a8b2ed412e03a2e7f71523076c477d4e.png?size=64",
         "discord_id": 520355381776482305,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "edwiller",
-        "display_name": "Edw",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1428535740752724009/a_0aab9e4e78347e48057738a347e4c54a.gif?size=64",
-        "discord_id": 1428535740752724009,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "verastreak",
-        "display_name": "Vera",
-        "avatar_url": "https://cdn.discordapp.com/avatars/655560026198376488/d6650fd6d0d7b4490da065c92f532544.png?size=64",
-        "discord_id": 655560026198376488,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "yanai0989",
-        "display_name": "ian𒉭",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1299569205661925449/a40b286a224eecc9e3926e37dbe01e3d.png?size=64",
-        "discord_id": 1299569205661925449,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "jordanbl",
-        "display_name": "JordanBL",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1054232411371753532/ee72f6f1f931ee6e2d5303da0e325ad3.png?size=64",
-        "discord_id": 1054232411371753532,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "teclucas",
-        "display_name": "Rukasu Akimoto",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1092411645516587078/d9f17b27a441aa67865d2995680171c3.png?size=64",
-        "discord_id": 1092411645516587078,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "the_king_of_ratos44",
-        "display_name": "The King Of Ratos👑",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1178417301838626956/35dbbc449f840d2fa87c9dcabf856916.png?size=64",
-        "discord_id": 1178417301838626956,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "eu_me_amo_",
         "display_name": "Ana banana",
         "avatar_url": "https://cdn.discordapp.com/avatars/1437201690674860125/e76173edd05564174199faeda971de1e.png?size=64",
         "discord_id": 1437201690674860125,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "akashi_2.0",
         "display_name": "Akashi",
         "avatar_url": "https://cdn.discordapp.com/avatars/977232949399404584/9bc1cc0b5a71b5ad587f32c93c10354c.png?size=64",
         "discord_id": 977232949399404584,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
         "username": "riofaxo",
         "display_name": "Volpiden",
         "avatar_url": "https://cdn.discordapp.com/avatars/1113645110463307846/a8d1fae19884ed88fbb5af63f4981a16.png?size=64",
         "discord_id": 1113645110463307846,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "carlos2049",
-        "display_name": "Carlos",
-        "avatar_url": "https://cdn.discordapp.com/avatars/939738572615987232/f5a5e4532cc12ea2648605e8c01d6ad6.png?size=64",
-        "discord_id": 939738572615987232,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ohsoneca",
-        "display_name": "ohsoneca",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1032008711805345852/516acae69134c457fbd0ec9f70b1bbb8.png?size=64",
-        "discord_id": 1032008711805345852,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "neocam25",
-        "display_name": "Neo",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1411836381914861568/89943e01540b6614bff69e1d479d9f38.png?size=64",
-        "discord_id": 1411836381914861568,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "almeidacn",
         "display_name": "Scarface",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1257283870366240889/195f46c193cc0332862e5a267b035f24.png?size=64",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1257283870366240889/6410aef7f7f3711f520bb0c64031dd51.png?size=64",
         "discord_id": 1257283870366240889,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "lauro0374_87726",
-        "display_name": "caçarato3362",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1360756396886458579/7e6e86ee1dbc8f1e001cdd55226438a8.png?size=64",
-        "discord_id": 1360756396886458579,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "oreivoltouesemprevoltara",
-        "display_name": "Bunnys 🐇",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1364330751209897984/7adbf861554c044f5ae4fa3d062d85fc.png?size=64",
-        "discord_id": 1364330751209897984,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "_reze_",
-        "display_name": "kawa",
-        "avatar_url": "https://cdn.discordapp.com/avatars/835138333550051329/5637184c289c83af86c2d8b04a82daa2.png?size=64",
-        "discord_id": 835138333550051329,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "varis9064",
-        "display_name": "Raff_Md",
-        "avatar_url": "https://cdn.discordapp.com/avatars/734430093207666841/64a16b380480be14fe8c3be7fcd5b008.png?size=64",
-        "discord_id": 734430093207666841,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ghosty",
-        "display_name": "ghosty",
-        "avatar_url": "https://cdn.discordapp.com/avatars/458302301187342336/4f9f37c89bc678c0357d08b7979198a6.png?size=64",
-        "discord_id": 458302301187342336,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "breapulo2",
-        "display_name": "Deus",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1291190587097092190/fedd8a8026e96e2064b701639416ae4b.png?size=64",
-        "discord_id": 1291190587097092190,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "fresh.ninja8106_13570",
-        "display_name": "Fresh.Ninja8106",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
-        "discord_id": 1355990264312758575,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "redpilulla",
-        "display_name": "Belzebu",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1382092766536007710/432e922dad68e49a4a89d34ecfcd0091.png?size=64",
-        "discord_id": 1382092766536007710,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "arthurzinhoodeial2r2",
         "display_name": "Arthur",
         "avatar_url": "https://cdn.discordapp.com/avatars/1246556156655046798/446f4784ff97659b0acad53b3d9aa82c.png?size=64",
         "discord_id": 1246556156655046798,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
         "username": "porcelana456",
         "display_name": "Porcelana",
         "avatar_url": "https://cdn.discordapp.com/avatars/1453134603127754833/420cfd403ab3f00dbc74d041944ce8ba.png?size=64",
         "discord_id": 1453134603127754833,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "sunity0000",
-        "display_name": "S",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1431077904099442833/c2f5815524afcc7804cbc611e966a8c3.png?size=64",
-        "discord_id": 1431077904099442833,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "jotaveluz",
-        "display_name": "Jotaveluz",
-        "avatar_url": "https://cdn.discordapp.com/avatars/537083522285043723/2e2540c621659af5282d153d15116f05.png?size=64",
-        "discord_id": 537083522285043723,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "andersonmemory",
-        "display_name": "Anderson",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1214637306397462540/bbb87f7db261c65802df0c8093a04838.png?size=64",
-        "discord_id": 1214637306397462540,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "____gojo__",
-        "display_name": "Kaleb",
-        "avatar_url": "https://cdn.discordapp.com/avatars/847840116341080074/59b490c48795d421138642a984906a93.png?size=64",
-        "discord_id": 847840116341080074,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lbzinn_x",
-        "display_name": "♚ 𝕸𝖚𝖗𝖎𝖑𝖔𝖝 ♔",
-        "avatar_url": "https://cdn.discordapp.com/avatars/968334673170280468/6810845cbdaff606c0072de7f44018c8.png?size=64",
-        "discord_id": 968334673170280468,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "pranteadora_",
-        "display_name": "Cadavérica",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1424416217057464483/be2ecc7b0a22e7b26d023c27e89f139b.png?size=64",
-        "discord_id": 1424416217057464483,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "pamelaw8ij1",
-        "display_name": "Pamela",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
-        "discord_id": 959747427391393822,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "tigas_fla",
         "display_name": "Tigasss7",
         "avatar_url": "https://cdn.discordapp.com/avatars/342058561888583680/4c1278eaba441927c66e0015259e74f7.png?size=64",
         "discord_id": 342058561888583680,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "nt_mike2",
-        "display_name": "Nt_Mike2",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1235012262033362996/3779e62069b9f8101727b980a918a593.png?size=64",
-        "discord_id": 1235012262033362996,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "rednunes",
-        "display_name": "RED•NUNES",
-        "avatar_url": "https://cdn.discordapp.com/avatars/672105816723030036/e7116953ffc62f354ebd4592d4396434.png?size=64",
-        "discord_id": 672105816723030036,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "vinicius1209",
-        "display_name": "Vini",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1025539163409350666/4aa72de3ae36aa2658f037810e16bd07.png?size=64",
-        "discord_id": 1025539163409350666,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "osunnym",
-        "display_name": "Ozzy",
-        "avatar_url": "https://cdn.discordapp.com/avatars/675213377093763105/a36c0551ffbcf03f4722d1629563ed50.png?size=64",
-        "discord_id": 675213377093763105,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "_jonathan9",
-        "display_name": "Jonathan9",
-        "avatar_url": "https://cdn.discordapp.com/avatars/532152497666654209/611a63b07b7901d896dce6b890070f9f.png?size=64",
-        "discord_id": 532152497666654209,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "clube.x_78036",
         "display_name": "Clube.x",
         "avatar_url": "https://cdn.discordapp.com/avatars/1219460655019724850/d74f0988f09c6bc96d71811efe8c780c.png?size=64",
         "discord_id": 1219460655019724850,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "bazarrlk_46682",
-        "display_name": "roger7",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1414061025078280222/127217cab965eed4980666f0ed6e362b.png?size=64",
-        "discord_id": 1414061025078280222,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "mhco__dev",
-        "display_name": "martt__dev",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1326217809629286471/8b52f65c51574d2ef0d62091af4d3aa2.png?size=64",
-        "discord_id": 1326217809629286471,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "santla",
         "display_name": "🎶SΛNTLΛ🎶",
         "avatar_url": "https://cdn.discordapp.com/avatars/1398287984176136284/116493faf959016ef957b15a3298eede.png?size=64",
         "discord_id": 1398287984176136284,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "_robke_.",
-        "display_name": "Robk_E",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-        "discord_id": 412278361780518912,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "star80662",
         "display_name": "Star 🌟",
         "avatar_url": "https://cdn.discordapp.com/avatars/836327448357371909/55f59e9aa46604b55887710626b610d1.png?size=64",
         "discord_id": 836327448357371909,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "beugenioms",
-        "display_name": "BEUGENIOOOOOOOOOOOOOOOOOOOOOOOOO",
-        "avatar_url": "https://cdn.discordapp.com/avatars/431118730404298760/b1035ba118fde08297e5541c0bd18fb4.png?size=64",
-        "discord_id": 431118730404298760,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "dilongi_69811",
-        "display_name": "DiLongi",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1373009073171071057,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "roccomendes",
         "display_name": "Rocco",
         "avatar_url": "https://cdn.discordapp.com/avatars/624719641079578646/8ab3aa9da64f6243818f73640843bd83.png?size=64",
         "discord_id": 624719641079578646,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "xisto0000",
-        "display_name": "Vandeano",
-        "avatar_url": "https://cdn.discordapp.com/avatars/642736806294454285/3011f56d5149953ea052e3a9d5e7e273.png?size=64",
-        "discord_id": 642736806294454285,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "m1au_.",
-        "display_name": "gr",
-        "avatar_url": "https://cdn.discordapp.com/avatars/996751721768435763/d17769755d1f1c1e7ad73e58b7da854c.png?size=64",
-        "discord_id": 996751721768435763,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "nobruzeraapelao0442_09104",
-        "display_name": "🌕 | Doze",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1297981562675269752/837012a3e73a89deb8aaff3c8c5500b7.png?size=64",
-        "discord_id": 1297981562675269752,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "fiercemohamed404",
-        "display_name": "Fiercemohamed404",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
-        "discord_id": 1442559363247243328,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "nao_sei0655",
         "display_name": "simply",
         "avatar_url": "https://cdn.discordapp.com/avatars/1305885274873532418/f4dca4faff65e8d3fa55bb73f843ea51.png?size=64",
         "discord_id": 1305885274873532418,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "shadowdruf",
-        "display_name": "shadowdruf",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "discord_id": 457884441600065548,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "levilagosta",
         "display_name": "∫LeviLobster dx",
         "avatar_url": "https://cdn.discordapp.com/avatars/1183523173870870568/10a79ff9c7c9e7af2a9ef653028b6fb8.png?size=64",
         "discord_id": 1183523173870870568,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "moreno085",
-        "display_name": "moreno cacheado 💨",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1033555822158020699/1c07e73aa538e20833579e0e4dc23c34.png?size=64",
-        "discord_id": 1033555822158020699,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lanazzzzz",
-        "display_name": "Lanaz",
-        "avatar_url": "https://cdn.discordapp.com/avatars/899347678167715911/0b1784ab2766b68177129141763fec8e.png?size=64",
-        "discord_id": 899347678167715911,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lealdade_newgen",
-        "display_name": "Leal de volta",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1368641887858331971/d9f6b785517f01ca243d039414767138.png?size=64",
-        "discord_id": 1368641887858331971,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "Pawnisher",
-        "display_name": "Pawnisher",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1318732737561100350/d85ae3a6b50bab8df969ac02181e1f8c.png?size=64",
-        "discord_id": 1318732737561100350,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "thalisonamaral",
-        "display_name": "ThalisonAmaral",
-        "avatar_url": "https://cdn.discordapp.com/avatars/365683730364235787/d2ab00c56b915a121892827211d823ed.png?size=64",
-        "discord_id": 365683730364235787,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gurilog",
-        "display_name": "𝖌𝖚𝖗𝖎𝖑𝖔𝖌🦋",
-        "avatar_url": "https://cdn.discordapp.com/avatars/761273231092744202/cc73009169f7c0ccc7333f1508c97709.png?size=64",
-        "discord_id": 761273231092744202,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "kuschelmaus247",
-        "display_name": "Kuschelmaus247",
-        "avatar_url": "https://cdn.discordapp.com/avatars/953729873556418630/5a45654d93a1eff1edb4b6b9352e8d07.png?size=64",
-        "discord_id": 953729873556418630,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "Statbot",
-        "display_name": "Statbot",
-        "avatar_url": "https://cdn.discordapp.com/avatars/491769129318088714/f23fd300d377ab133db1d6ac7db5d10b.png?size=64",
-        "discord_id": 491769129318088714,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "molodoy013820",
         "display_name": "Flakez",
         "avatar_url": "https://cdn.discordapp.com/avatars/1434376053496746046/1a45a809757dddbdfc1ccafd98d3fb69.png?size=64",
         "discord_id": 1434376053496746046,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "the_lord_of_meows",
-        "display_name": "The Lord of Meows",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1187559376052039762/4396b2308db339f7e2b897ad49bacd4b.png?size=64",
-        "discord_id": 1187559376052039762,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "zeckqi",
         "display_name": "zeck",
-        "avatar_url": "https://cdn.discordapp.com/avatars/540204348362326043/a91b479b87ee8a05460e0d84bb157a31.png?size=64",
+        "avatar_url": "https://cdn.discordapp.com/avatars/540204348362326043/98f9ea126f67006a64ad8a8b6f95d6f6.png?size=64",
         "discord_id": 540204348362326043,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "siageiwhsojd",
-        "display_name": "Siageiwhsojd",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1377772768224870578/6c5996770c985bcd6e5b68131ff2ba04.png?size=64",
-        "discord_id": 1377772768224870578,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "malfoyboladao",
-        "display_name": "Malfoy",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1372845470615076917/2f027a540db550406bff6ceec42624d8.png?size=64",
-        "discord_id": 1372845470615076917,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lucasmat._.",
-        "display_name": "...",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1067583301927309393/2366922755cac3bfffc193445857980d.png?size=64",
-        "discord_id": 1067583301927309393,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ldzin._02",
-        "display_name": "Ldzin自我",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1246544870110396487/da9f0c64f8213ba7b7535c0b74c5adaa.png?size=64",
-        "discord_id": 1246544870110396487,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "darness_03",
-        "display_name": "! darkness",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1007767881259429908/bf2d5ea6ed85076f5b91f19aeb51cea1.png?size=64",
-        "discord_id": 1007767881259429908,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "diogosodre",
-        "display_name": "Diogo Sodré",
-        "avatar_url": "https://cdn.discordapp.com/avatars/539940930208399370/a679bf09c4ae7a58ea30fa5896dd6b43.png?size=64",
-        "discord_id": 539940930208399370,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "melissa_stephann",
         "display_name": "Melissa (meta: no bah)",
         "avatar_url": "https://cdn.discordapp.com/avatars/1082656916930564137/ad0db358f3c2e80a51daa2e8727d3dd8.png?size=64",
         "discord_id": 1082656916930564137,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "nagumohori",
-        "display_name": "Ⓝⓐⓖⓤⓜⓞ",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1062947497682665553/b667d9fc58da0a10fc47f0d9b5e7ff53.png?size=64",
-        "discord_id": 1062947497682665553,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "sunity0599_83236",
-        "display_name": "BadSytem",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1434036444594307113/23fe410977c7d10e53cd3e8152f4bf84.png?size=64",
-        "discord_id": 1434036444594307113,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "vicentetanuri",
-        "display_name": "Vicente T",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1369444851661275269/4825bae7cf15a85bdd3ccb7f225fa0c8.png?size=64",
-        "discord_id": 1369444851661275269,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ohmaygoddd.",
-        "display_name": "Hey_ogod",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-        "discord_id": 1366207664945889310,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "sotero0381",
-        "display_name": "PetitSusBoy🕊",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1185618244816609354/5d94d7ac9fb622154058bddbcb0f1d88.png?size=64",
-        "discord_id": 1185618244816609354,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "proto_delta",
-        "display_name": "∴∆",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1343564407912792142/56027bdf268f46cda07e0f6f8501b5e3.png?size=64",
-        "discord_id": 1343564407912792142,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "thedarknesstre",
-        "display_name": "TheDarkness",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1392829575389511806/d12ceb55a5584d61b6b82c1562ac2338.png?size=64",
-        "discord_id": 1392829575389511806,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "yamatsu34_86962",
         "display_name": "Li-Xyu",
         "avatar_url": "https://cdn.discordapp.com/avatars/1332155606819143760/f30f19d55078abcc4520c9dd839faa26.png?size=64",
         "discord_id": 1332155606819143760,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "felip3ss",
-        "display_name": "Felip",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1297660176815489148/f2ea9257e1f3418d338868e4b2e45c51.png?size=64",
-        "discord_id": 1297660176815489148,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "loserxp",
-        "display_name": "Kazuma",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1220711959993782294/b9851e8134f2580495449fcce91f169a.png?size=64",
-        "discord_id": 1220711959993782294,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "artenio_flx",
-        "display_name": "Artenio",
-        "avatar_url": "https://cdn.discordapp.com/avatars/297076605765943308/781c9704827dbd8aecf6543d5dc317e8.png?size=64",
-        "discord_id": 297076605765943308,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "khalilsb3",
-        "display_name": "KHALIL SB3",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1344289210936463452/89f0554890447a2c4817c56324830902.png?size=64",
-        "discord_id": 1344289210936463452,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "xp_kauan",
-        "display_name": "KN",
-        "avatar_url": "https://cdn.discordapp.com/avatars/900783760423944233/22a9c0ef6f2a6725a4f4dc285e717822.png?size=64",
-        "discord_id": 900783760423944233,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "space5352680",
         "display_name": "✝🇸 🇵 🇦 🇨 🇪  🇻🇦",
         "avatar_url": "https://cdn.discordapp.com/avatars/1173668025392709634/a_3fdf633226e6f8db4b36ee1d09c0a79a.gif?size=64",
         "discord_id": 1173668025392709634,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "_dark.matt_",
-        "display_name": "ダークマット",
-        "avatar_url": "https://cdn.discordapp.com/avatars/945465038532120586/de4212445e9c3d3fc437f6b2e8437bed.png?size=64",
-        "discord_id": 945465038532120586,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "grafite.h",
         "display_name": "Ezequiel",
         "avatar_url": "https://cdn.discordapp.com/avatars/925232326177325087/c47738bdd20f767d20f202a8c6ca7136.png?size=64",
         "discord_id": 925232326177325087,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "herbeck60_421",
-        "display_name": "Herbeck4371",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "discord_id": 1428205879970500721,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "jeffsmith3087",
-        "display_name": "Jeff Smith",
-        "avatar_url": "https://cdn.discordapp.com/avatars/938346537984065558/0824004fe236407bbded38dc91599565.png?size=64",
-        "discord_id": 938346537984065558,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lula029225",
-        "display_name": "Lula",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1417631331256500246/2a32ae3016738854669b6d9c73088743.png?size=64",
-        "discord_id": 1417631331256500246,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bunnyzap_02_68248",
-        "display_name": "bunnyzap_02_68248",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1382302510492160050/485a8f66777144a310257eaa551d6e22.png?size=64",
-        "discord_id": 1382302510492160050,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "shrekpresidente",
         "display_name": "Shrek presidente",
         "avatar_url": "https://cdn.discordapp.com/avatars/965321963327356938/4f71043921f9fb5db45a7d3880900660.png?size=64",
         "discord_id": 965321963327356938,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "abby_wwz",
-        "display_name": "Lys",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1004468783513079851/e8fe9fa332e5f8483a122ac17e787eb1.png?size=64",
-        "discord_id": 1004468783513079851,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ghostxgiirll",
-        "display_name": "recriação cosmica",
-        "avatar_url": "https://cdn.discordapp.com/avatars/953591254669725717/baa3036d3405271b4f8ee47c167af408.png?size=64",
-        "discord_id": 953591254669725717,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lariuwula_18855",
-        "display_name": "GABY🍁",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1413572921321853033/3c0af6b42b6d184a660064fea2ca0ead.png?size=64",
-        "discord_id": 1413572921321853033,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "egua1324",
-        "display_name": "Mendzz 🇹🇭",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1319793448122843138/160ba1a78b45383ae3e35176fee15c26.png?size=64",
-        "discord_id": 1319793448122843138,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "slas2",
-        "display_name": "sla S2 ⛧",
-        "avatar_url": "https://cdn.discordapp.com/avatars/685149784419729527/b611c43062b560fafa37ddba4ab388df.png?size=64",
-        "discord_id": 685149784419729527,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "hrzy_32",
-        "display_name": "𝕲𝕳𝟒𝖘𝖙",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1198323125864103947/f7f5db3b12f8a40e267b051a719801fd.png?size=64",
-        "discord_id": 1198323125864103947,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "skyx_god",
-        "display_name": "SKYx_GOD",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1186337511413399634/d333d50efd77cd73a4ccc2efea53c995.png?size=64",
-        "discord_id": 1186337511413399634,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "cauahenry_",
         "display_name": "Cauã Fisher",
         "avatar_url": "https://cdn.discordapp.com/avatars/1144037279963283567/91933da015034d060c3ecd8c182846a5.png?size=64",
         "discord_id": 1144037279963283567,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "duarrte77",
-        "display_name": "! Sergio Duarte",
-        "avatar_url": "https://cdn.discordapp.com/avatars/473251025554505731/d804e78aed22e92e00c090ab402a703f.png?size=64",
-        "discord_id": 473251025554505731,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ynnri",
-        "display_name": "Ynn",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1231060553162821652/3f1f8a9d3fe9850121c1a6b08fe9d6cf.png?size=64",
-        "discord_id": 1231060553162821652,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "drago7373",
         "display_name": "Drago",
         "avatar_url": "https://cdn.discordapp.com/avatars/580024994172633088/909495d39d41130db274bb1be997fe2b.png?size=64",
         "discord_id": 580024994172633088,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "ghostson9417",
         "display_name": "ghostson",
         "avatar_url": "https://cdn.discordapp.com/avatars/833461744005283841/b9f4b0facb157d473a250d133f74cbf0.png?size=64",
         "discord_id": 833461744005283841,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "carmomoises",
-        "display_name": "carmomoises",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-        "discord_id": 1121957275427414056,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "tigaspsico",
-        "display_name": "tigas bom e novo",
-        "avatar_url": "https://cdn.discordapp.com/avatars/814548978351865859/312f3266d205fbe2f5f146096e1952c5.png?size=64",
-        "discord_id": 814548978351865859,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bdhdjdjchh_63037",
-        "display_name": "Bdhdjdjchh",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1381779290911150083,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "kaspacapivarov",
         "display_name": "Capivarov",
         "avatar_url": "https://cdn.discordapp.com/avatars/1414719954636509184/bb2a52cb8022ca3de4a769e96a40b88c.png?size=64",
         "discord_id": 1414719954636509184,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "mr_najim",
-        "display_name": "Mr.Najim",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1345498457061724211/5348c53119d0fae8ba10fb6e69c56058.png?size=64",
-        "discord_id": 1345498457061724211,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "rata_lau",
-        "display_name": "Rata",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1393334581335429285/e2459e74f72d5690e714190af917877f.png?size=64",
-        "discord_id": 1393334581335429285,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "luckzin_chess",
-        "display_name": "Luckzin_Chess",
-        "avatar_url": "https://cdn.discordapp.com/avatars/872212877308756018/e6a44e4542d113c6cf2ca7e7311543dc.png?size=64",
-        "discord_id": 872212877308756018,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "zipposo",
-        "display_name": "Zippy",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1257540695825055784/701e97c7c059cc9ba56a0ef27c0316b5.png?size=64",
-        "discord_id": 1257540695825055784,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "emotcoin",
-        "display_name": "emotcoin",
-        "avatar_url": "https://cdn.discordapp.com/avatars/579822162932793344/5e1345147c834bc82220eb40d61859ef.png?size=64",
-        "discord_id": 579822162932793344,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "al4na.ws",
-        "display_name": "al4na",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1345831292318519391/4dc956e06c2a27575a3ec7bc6471438a.png?size=64",
-        "discord_id": 1345831292318519391,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "lg_71__20992",
         "display_name": "Lg_71",
         "avatar_url": "https://cdn.discordapp.com/avatars/1231954357717696532/478cdb61ec28335abaf8bcab79edbe3e.png?size=64",
         "discord_id": 1231954357717696532,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "duhzinh.",
-        "display_name": "Duzinh",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1416449905182118051/6c5996770c985bcd6e5b68131ff2ba04.png?size=64",
-        "discord_id": 1416449905182118051,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "eletrobest",
         "display_name": "Eletro",
         "avatar_url": "https://cdn.discordapp.com/avatars/466310805479096332/687c1a23d1b97e324d3272aeefe22cb0.png?size=64",
         "discord_id": 466310805479096332,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "chill_wolf4849_24095",
-        "display_name": "Chill_Wolf4849",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "discord_id": 1356329746010476764,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "joshyliebert",
-        "display_name": "Joshy",
-        "avatar_url": "https://cdn.discordapp.com/avatars/547843708347744256/f56cb4ed932eaa57fdc3a33e2e32d277.png?size=64",
-        "discord_id": 547843708347744256,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "matthaus007",
         "display_name": "Matthaus",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1069063800537489538/977941cf1d9b306f8342f803fe5809d8.png?size=64",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1069063800537489538/9ffcb51b95e28b40474ac3ff5059b742.png?size=64",
         "discord_id": 1069063800537489538,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "talkspeed",
-        "display_name": "Pedro Henrique",
-        "avatar_url": "https://cdn.discordapp.com/avatars/954916257084375130/54ec4a42193edc3be4f73f48b6cd96a9.png?size=64",
-        "discord_id": 954916257084375130,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "nearmie",
-        "display_name": "Near",
-        "avatar_url": "https://cdn.discordapp.com/avatars/738088591787294722/bbe5b35d6d43ecd4dbf399b7751a1e31.png?size=64",
-        "discord_id": 738088591787294722,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "dexter0084_50451",
         "display_name": "Dexter",
         "avatar_url": "https://cdn.discordapp.com/avatars/1390875549999829062/6c5996770c985bcd6e5b68131ff2ba04.png?size=64",
         "discord_id": 1390875549999829062,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "alves0210104",
-        "display_name": "Alves021",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1353499670843883620/a177fbfc3311e7f1c7d1107afb4f1514.png?size=64",
-        "discord_id": 1353499670843883620,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "fischerpobre_92710",
         "display_name": "Hikari",
         "avatar_url": "https://cdn.discordapp.com/avatars/1335711504665804851/594a248baea72d7490808f586eb86e54.png?size=64",
         "discord_id": 1335711504665804851,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "mgl_bola10",
-        "display_name": "mgl_bola2",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1354838239390859264/c204205286217ca5afc3bd000906090a.png?size=64",
-        "discord_id": 1354838239390859264,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "caramelo_do_kart",
-        "display_name": "🩸Dexter Morgan 🩸",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1316835842001600714/9303087b3b62f6f623378802dda5b8b5.png?size=64",
-        "discord_id": 1316835842001600714,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "YAGPDB.xyz",
-        "display_name": "YAGPDB.xyz",
-        "avatar_url": "https://cdn.discordapp.com/avatars/204255221017214977/a_f745fbd1c07799ac4ec443e988e2b766.gif?size=64",
-        "discord_id": 204255221017214977,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "euyolru",
-        "display_name": "yoru",
-        "avatar_url": "https://cdn.discordapp.com/avatars/709738104805654638/a2ca648bff9493e5507f5348c12674c8.png?size=64",
-        "discord_id": 709738104805654638,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "Fibo",
-        "display_name": "Fibo",
-        "avatar_url": "https://cdn.discordapp.com/avatars/735147814878969968/8b72f174c30276f4d48c1e66608df70c.png?size=64",
-        "discord_id": 735147814878969968,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "xzf.gojira",
-        "display_name": "Xzf",
-        "avatar_url": "https://cdn.discordapp.com/avatars/862105354674372648/63a2255429c1af474ecad03092172b62.png?size=64",
-        "discord_id": 862105354674372648,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lordescanor3240",
-        "display_name": "Ashuhamaru",
-        "avatar_url": "https://cdn.discordapp.com/avatars/779011907381493781/f4ac4a39aeb9432e12983f9489361690.png?size=64",
-        "discord_id": 779011907381493781,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "flzmonster",
-        "display_name": "FLz",
-        "avatar_url": "https://cdn.discordapp.com/avatars/489597042256117762/c1b8a150d3eec830c6ca0ca07e8adb2b.png?size=64",
-        "discord_id": 489597042256117762,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "vitorkoren",
         "display_name": "VitorKoren",
         "avatar_url": "https://cdn.discordapp.com/avatars/1019450096179490892/d9e3220dfa7872691676e8780dc1d95d.png?size=64",
         "discord_id": 1019450096179490892,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
         "username": "icyzksz",
         "display_name": "LyonBeast #GO26🇫🇷",
         "avatar_url": "https://cdn.discordapp.com/avatars/983008295981809704/d6082092c6c7817f443c06495bc4b442.png?size=64",
         "discord_id": 983008295981809704,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "TTS Bot",
-        "display_name": "TTS Bot",
-        "avatar_url": "https://cdn.discordapp.com/avatars/513423712582762502/760ae3b79b2ca0fcd91dc9d89c6984c5.png?size=64",
-        "discord_id": 513423712582762502,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "rodohosu",
         "display_name": "RodoHosu(meta:2500BlitzChesscom)",
         "avatar_url": "https://cdn.discordapp.com/avatars/1432392741920440517/aefcc2e90b500e91a0e7c8de8343a926.png?size=64",
         "discord_id": 1432392741920440517,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "earth01123",
-        "display_name": "Sla_04",
-        "avatar_url": "https://cdn.discordapp.com/avatars/787164945455906847/cc0f5c91a9e70683188151bf9a726407.png?size=64",
-        "discord_id": 787164945455906847,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "queisso123",
         "display_name": "queisso123",
         "avatar_url": "https://cdn.discordapp.com/avatars/1279826967717347463/85a1e3e55d3c5ba1bc2d733fce92c3aa.png?size=64",
         "discord_id": 1279826967717347463,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "cacahh___.",
-        "display_name": "Droga, é o Kevin 𖣂",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1248486312747728980/2fc044be0d5d4ba5350839001e1bc7ad.png?size=64",
-        "discord_id": 1248486312747728980,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "fibonacci_171",
-        "display_name": "Prof.Fibonacci",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1398715974290509977/e7a02cd056810893a19b7f4aa027b2d6.png?size=64",
-        "discord_id": 1398715974290509977,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "graudinop",
         "display_name": "capivarita",
         "avatar_url": "https://cdn.discordapp.com/avatars/858059959040344104/8e9c494c7a8b5079eace16103d1e9ad9.png?size=64",
         "discord_id": 858059959040344104,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "kauarerison",
-        "display_name": "KR CARAMELO",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1158403075208392784/773de7d5d388dc32f2cbaf42ec453342.png?size=64",
-        "discord_id": 1158403075208392784,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "brain_obj",
-        "display_name": "braining sloppy",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-        "discord_id": 1409659453061464226,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "worldnumber1bridger",
-        "display_name": "world number 1 bridger",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "discord_id": 1289660165074718795,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "miinimen",
-        "display_name": "Miinimen",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1377846912220139602/71757b7702980690329f1f70395a4dfd.png?size=64",
-        "discord_id": 1377846912220139602,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "wakeupandlive2",
-        "display_name": "Guedes",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1076896051807670282/f682f38a42c6510172f9417ca720508e.png?size=64",
-        "discord_id": 1076896051807670282,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "mukezinxd",
-        "display_name": "Mukee",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1262467981053657181/d5fbcfb09db35303a47bc0701564d6a6.png?size=64",
-        "discord_id": 1262467981053657181,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "tioenvira_73416",
-        "display_name": "TioEnvira",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "discord_id": 1359339161110450406,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "FlaviBot 2",
-        "display_name": "FlaviBot 2",
-        "avatar_url": "https://cdn.discordapp.com/avatars/749248172756303913/e443af6f5e7741cf3df6597697ab1186.png?size=64",
-        "discord_id": 749248172756303913,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "esterzuda",
-        "display_name": "𖣂 Ester",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-        "discord_id": 1226979795813011479,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "dragon003.",
-        "display_name": "Dragon",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1065773276510572624/d5b7d8b1646b5f0e9537a0f08e526617.png?size=64",
-        "discord_id": 1065773276510572624,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "jefaru.",
-        "display_name": "jef",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1163912750347591680/054be870c63da5d6b029ff2ba310bcfc.png?size=64",
-        "discord_id": 1163912750347591680,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "felipe_cll_",
-        "display_name": "felipe_cll",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-        "discord_id": 1324372136164458497,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "odavidantas",
-        "display_name": "Davi Dantas",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1204588375642738708/e3add63536e6fbe2d1d4777b40bf899f.png?size=64",
-        "discord_id": 1204588375642738708,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "kaitochess",
-        "display_name": "Kaito Chess",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1360302576968663150,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gabryelhc_56703",
-        "display_name": "Gabryel 🍁",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1187401643139018795/82d01a8eebed86de47cf1eb8e702d033.png?size=64",
-        "discord_id": 1187401643139018795,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "shivalupi",
-        "display_name": "Shiva",
-        "avatar_url": "https://cdn.discordapp.com/avatars/826908620884934666/7d156849fdb87e1c5fab19eb2c4c1faf.png?size=64",
-        "discord_id": 826908620884934666,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "terere7",
-        "display_name": "luizck",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1199196478464327803/d11c5953c4a1bea744af565b30996672.png?size=64",
-        "discord_id": 1199196478464327803,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "meninodevovo_",
         "display_name": "マテウス",
         "avatar_url": "https://cdn.discordapp.com/avatars/1417191360771002498/8f001e842a958e7a4997bfb595fe538c.png?size=64",
         "discord_id": 1417191360771002498,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "guaianazes",
-        "display_name": "Hello",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1177777164314214433/895d750ea878a7365a490fed635cd480.png?size=64",
-        "discord_id": 1177777164314214433,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "rav.web",
-        "display_name": "Ravena",
-        "avatar_url": "https://cdn.discordapp.com/avatars/745418648092672072/5702005aad576cd166405456bab7d30e.png?size=64",
-        "discord_id": 745418648092672072,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "wat2s_22757",
-        "display_name": "wat2s",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1383905438738682041,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "zugi.887",
         "display_name": "Ziggy",
         "avatar_url": "https://cdn.discordapp.com/avatars/1437295520514310174/cb2bdf45272e75bdf21359ede3fc53c6.png?size=64",
         "discord_id": 1437295520514310174,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "notthekzx",
-        "display_name": "lelebinho",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1301663957597032571/dbfebb5c24e97f32d4a1ed5e0769248c.png?size=64",
-        "discord_id": 1301663957597032571,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "nnerolarh",
-        "display_name": "NrhSabe (nerola)",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1311042716037156918/5d7149387449a46f22c70d5c14bd0a63.png?size=64",
-        "discord_id": 1311042716037156918,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "tianzhongshi0894",
-        "display_name": "Beyond birthday",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1444782923315155054/722650300660ab23de0e090ff1e41add.png?size=64",
-        "discord_id": 1444782923315155054,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "Make it a Quote",
-        "display_name": "Make it a Quote",
-        "avatar_url": "https://cdn.discordapp.com/avatars/949479338275913799/820d3d1c01590537f676cf2547957b99.png?size=64",
-        "discord_id": 949479338275913799,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "knight.12",
         "display_name": "꧁ঔৣ☬✞ LIGHT ✞☬ঔৣ꧂",
         "avatar_url": "https://cdn.discordapp.com/avatars/1100842435522867252/82fff1e4a1758983e80221b9b89f1f07.png?size=64",
         "discord_id": 1100842435522867252,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "liardeson",
         "display_name": "Liardeson",
         "avatar_url": "https://cdn.discordapp.com/avatars/892789181233909761/1bbf4f48076e3ff3c6f5e320a1b59a36.png?size=64",
         "discord_id": 892789181233909761,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "quispprime",
         "display_name": "Quisp 🥊",
         "avatar_url": "https://cdn.discordapp.com/avatars/1382717031190888510/af68a2004ac9acf27908aacc427a3355.png?size=64",
         "discord_id": 1382717031190888510,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "kenyipe",
-        "display_name": "Keny!!  和栗 薫子",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1371967328794837062/040b334c1b5cd1efe1094869bfe71ff2.png?size=64",
-        "discord_id": 1371967328794837062,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "paulo_henrique28",
-        "display_name": "paulo_henrique28",
-        "avatar_url": "https://cdn.discordapp.com/avatars/866797498601177140/5613e85ddbd5da4b7ceda25a07de8bfa.png?size=64",
-        "discord_id": 866797498601177140,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "synck03",
-        "display_name": "∞",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1335606614933377024/8b8674afadff43538d9c173d0d8d9be4.png?size=64",
-        "discord_id": 1335606614933377024,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "alan6666",
-        "display_name": "alan",
-        "avatar_url": "https://cdn.discordapp.com/avatars/308672585330196480/ea54852cd2625e2b06ea7aa65630697f.png?size=64",
-        "discord_id": 308672585330196480,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "siegberttarrasch",
-        "display_name": "siegberttarrasch",
-        "avatar_url": "https://cdn.discordapp.com/avatars/994783063877898360/d448a7180cc1fd85e3db920abb657cc0.png?size=64",
-        "discord_id": 994783063877898360,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "kingdupe",
-        "display_name": "Dupe",
-        "avatar_url": "https://cdn.discordapp.com/avatars/727976267659477013/a3e1f732c776e90cf56e20c49b01086c.png?size=64",
-        "discord_id": 727976267659477013,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "fhpb",
         "display_name": "FH",
         "avatar_url": "https://cdn.discordapp.com/avatars/204976719873048576/4ea0a9676f5d82c8f7da428a70fa9358.png?size=64",
         "discord_id": 204976719873048576,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "Embed Generator",
-        "display_name": "Embed Generator",
-        "avatar_url": "https://cdn.discordapp.com/avatars/410138706490425344/aaa83f8808bc162de1291f3e40513333.png?size=64",
-        "discord_id": 410138706490425344,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bielzinxzt",
-        "display_name": "SantzT",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1367617019679211611/f8e3b79b0ac9ec9f761e9490c15ed3e8.png?size=64",
-        "discord_id": 1367617019679211611,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "MafiaBot",
-        "display_name": "MafiaBot",
-        "avatar_url": "https://cdn.discordapp.com/avatars/511786918783090688/81b4f3c332867a8921df67cebad79759.png?size=64",
-        "discord_id": 511786918783090688,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bielj7_09013",
-        "display_name": "biel",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1176291574330699817,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "soniclouco28",
-        "display_name": "R3z3",
-        "avatar_url": "https://cdn.discordapp.com/avatars/810983221348925510/84c0a96fdb08a6b87b5d8fb50e0ea364.png?size=64",
-        "discord_id": 810983221348925510,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "arimanuela",
         "display_name": "Liz ᯓᡣ𐭩",
         "avatar_url": "https://cdn.discordapp.com/avatars/1436509168906273032/a1d386f2017960a7893268dde14a4a55.png?size=64",
         "discord_id": 1436509168906273032,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "wowisitshazam",
         "display_name": "Art",
         "avatar_url": "https://cdn.discordapp.com/avatars/1303302964156436484/9b6dbc3d57f6f3c1749a2cd2448833b4.png?size=64",
         "discord_id": 1303302964156436484,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "cavassutti.",
-        "display_name": "Cavassutti",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1316475827843760238/157e517cdbf371a47aaead44675714a3.png?size=64",
-        "discord_id": 1316475827843760238,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ludovicastort",
-        "display_name": "ludovica",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1321870468541579339/64804bec8856306264ee03e848d450ea.png?size=64",
-        "discord_id": 1321870468541579339,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "deep_lives",
         "display_name": "DeepLives",
         "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
         "discord_id": 1428900584915992687,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "figueiredo27.",
-        "display_name": "Figueiredo27",
-        "avatar_url": "https://cdn.discordapp.com/avatars/373127204084776961/a1af6bad6cffd946ef7813237039dfb4.png?size=64",
-        "discord_id": 373127204084776961,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "grimm_of_the_night",
-        "display_name": "Harpia",
-        "avatar_url": "https://cdn.discordapp.com/avatars/708488972803899422/a82a28dc7cccae7973ce4c9f7089ac7e.png?size=64",
-        "discord_id": 708488972803899422,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gimjunggeug",
-        "display_name": "김중극",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 619814095696297984,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "patrickstone007_85861",
         "display_name": "Stone tea☕",
         "avatar_url": "https://cdn.discordapp.com/avatars/1437612594608476172/e5e83ddb2be7ed46feb9283c0629ac21.png?size=64",
         "discord_id": 1437612594608476172,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "anakin227",
-        "display_name": "eve",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1020110030109941791/876d66866751612f7efb0fddc9c6b1a2.png?size=64",
-        "discord_id": 1020110030109941791,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "estocou",
-        "display_name": "hariel",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1388307752534806632/b267036f7748b039c234f433e3a9a613.png?size=64",
-        "discord_id": 1388307752534806632,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "kobmanden329",
-        "display_name": "SG the købmand",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1390170964775403642/02eb3accc599bd1386d3a67c50fa8213.png?size=64",
-        "discord_id": 1390170964775403642,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "goten_chess",
         "display_name": "Goten",
         "avatar_url": "https://cdn.discordapp.com/avatars/1337763240524120115/83451464c9566ce26f1f446cb7cf0cc4.png?size=64",
         "discord_id": 1337763240524120115,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "Loritta",
-        "display_name": "Loritta",
-        "avatar_url": "https://cdn.discordapp.com/avatars/297153970613387264/efaafbf96cae638c6c8eb24b4f0bed28.png?size=64",
-        "discord_id": 297153970613387264,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "srwhite9172",
-        "display_name": "srwhite9172",
-        "avatar_url": "https://cdn.discordapp.com/avatars/910334217500647436/e0ba2b809e5877dc9b060d216abf9823.png?size=64",
-        "discord_id": 910334217500647436,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "rafa_carva1ho4950",
-        "display_name": "R_CarvalhoAl",
-        "avatar_url": "https://cdn.discordapp.com/avatars/302282340712054788/605a5ce4bbb440e60c73bb5ac5cd08c3.png?size=64",
-        "discord_id": 302282340712054788,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "godavida",
-        "display_name": "godaegg",
-        "avatar_url": "https://cdn.discordapp.com/avatars/531215954395529219/16d38cd5e278bd6c3c703dc3bf3a4684.png?size=64",
-        "discord_id": 531215954395529219,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "viniscacchi",
-        "display_name": "viniscacchi♟🇧🇷🇮🇹",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1410348681898754229/e8582bb300e318520e82addbfad833ea.png?size=64",
-        "discord_id": 1410348681898754229,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "gabriel133637376463040474794647",
         "display_name": "Gabriel",
         "avatar_url": "https://cdn.discordapp.com/avatars/1370543306702065684/495e63cc6afb2d478e1a05cbd3846ddf.png?size=64",
         "discord_id": 1370543306702065684,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "gtoddy200",
-        "display_name": "NM GToddy200",
-        "avatar_url": "https://cdn.discordapp.com/avatars/599563864509513739/fc948c6459d0f6d65af7f615d13eb8d0.png?size=64",
-        "discord_id": 599563864509513739,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gustavo4070",
-        "display_name": "gv blessed",
-        "avatar_url": "https://cdn.discordapp.com/avatars/658382732010717185/51617c747a9b4e05924342fbd2a084de.png?size=64",
-        "discord_id": 658382732010717185,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "capivara3904",
         "display_name": "capivara",
         "avatar_url": "https://cdn.discordapp.com/avatars/531160140427296778/06c68511f5dd898cd573d27dadb7c1af.png?size=64",
         "discord_id": 531160140427296778,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "dr1.s0ares",
-        "display_name": "PS_DR1",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-        "discord_id": 778369374657445938,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lucas_gabriell____44014",
-        "display_name": "Lucas_Gabriell___",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1201541997769527320/73e84742e6d7a0dd7e9b793e0278fd51.png?size=64",
-        "discord_id": 1201541997769527320,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "widespreadcheeks",
         "display_name": "widespreadcheeks",
         "avatar_url": "https://cdn.discordapp.com/avatars/1339019240916914187/c4ae3743c8a2b7d15b18e94e5d6b7333.png?size=64",
         "discord_id": 1339019240916914187,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "fungofungofungo",
-        "display_name": "acx",
-        "avatar_url": "https://cdn.discordapp.com/avatars/958207631607099403/6a920b5a5778911ae9d3bc65c4480e6c.png?size=64",
-        "discord_id": 958207631607099403,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ayanokojikyotaka0843",
-        "display_name": "LELOUCH",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1200017013595197451/3f2bcad7b9b65fdcdaad754c8f0d9e4f.png?size=64",
-        "discord_id": 1200017013595197451,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "boeing7774277",
         "display_name": "100 com s estourou a usina",
         "avatar_url": "https://cdn.discordapp.com/avatars/412330082246590464/ff80928094fb3f8d58e2825fe9542abc.png?size=64",
         "discord_id": 412330082246590464,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "fazol_bah",
         "display_name": "bah",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1016322500575117342/578299a1305ee5a08c71fd4684d69424.png?size=64",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1016322500575117342/ace22fbe4f4c5d31f59255a244c5d45d.png?size=64",
         "discord_id": 1016322500575117342,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "dubsdubs_s",
-        "display_name": "dubexorsian♱",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1433098578544296099/6b4fab11c7cef79c836782384c95e409.png?size=64",
-        "discord_id": 1433098578544296099,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "timaoepumbar",
         "display_name": "Jhon_Hewlly",
         "avatar_url": "https://cdn.discordapp.com/avatars/573653392996433966/634e1a00eafa6b81b33de5259e19cc97.png?size=64",
         "discord_id": 573653392996433966,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "fitacalistenia",
-        "display_name": "Fita calistenia",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1091489100734931084/f72c1b64517fe963de5841ce3fd778e4.png?size=64",
-        "discord_id": 1091489100734931084,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gmfischer_",
-        "display_name": "Bobby Fischer ♟️🥀",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1319634120783036451/a8d8efd822002ad6554a92d413fdbcf7.png?size=64",
-        "discord_id": 1319634120783036451,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "logicalik",
-        "display_name": "logical",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1406876049647734986/a_e768559bd1923044503399031035ada0.gif?size=64",
-        "discord_id": 1406876049647734986,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "devithmamado_24010",
-        "display_name": "Devithmamado",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1222615417932222587/5b869b6d0000e1aa321c3a6717b8dad1.png?size=64",
-        "discord_id": 1222615417932222587,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lhsapiens",
-        "display_name": "Sapi",
-        "avatar_url": "https://cdn.discordapp.com/avatars/925350661003018261/dd53852b71ed666dfa2a80f8b4a44b63.png?size=64",
-        "discord_id": 925350661003018261,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ramonesmones",
-        "display_name": "Ramonesmones",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1305397667299463209/1628fc11e7961d85181295493426b775.png?size=64",
-        "discord_id": 1305397667299463209,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "arthursszx",
         "display_name": "juaozinho do pão de queijo",
         "avatar_url": "https://cdn.discordapp.com/avatars/942167539247636490/c747629eee1b6a00521670e556ceb218.png?size=64",
         "discord_id": 942167539247636490,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
         "username": "coachpedrin",
         "display_name": "Pedrin",
         "avatar_url": "https://cdn.discordapp.com/avatars/519643334810009611/d878fa8032b2f2ac5012f2d16ab1fb66.png?size=64",
         "discord_id": 519643334810009611,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "arrogant_guy",
         "display_name": "Mairos",
         "avatar_url": "https://cdn.discordapp.com/avatars/1141090881743618098/a6b8eb9952c7051abf5f942b015f892c.png?size=64",
         "discord_id": 1141090881743618098,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "tao.00",
-        "display_name": "Bobo",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1383628833563082924/3aadd3477d9156a833d00009cbb8ccf8.png?size=64",
-        "discord_id": 1383628833563082924,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "perry_ornitorrinco01",
-        "display_name": "Agente. P",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1350989559495790642/a73a932a2e3012e2cd888d42e4e6ae05.png?size=64",
-        "discord_id": 1350989559495790642,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "tumiditypn840",
-        "display_name": "tumiditypn840",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-        "discord_id": 1441541168222699540,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "wesley0712",
-        "display_name": "Wesley",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1182980254214656071/49cf36603e7094e6249eb9e501395879.png?size=64",
-        "discord_id": 1182980254214656071,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "kharsek.",
         "display_name": "Kharsek",
         "avatar_url": "https://cdn.discordapp.com/avatars/667081747221184527/aa8885414c568a1a2d79f8d637d086c7.png?size=64",
         "discord_id": 667081747221184527,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
         "username": "tdk0432_36366",
         "display_name": "TDK",
         "avatar_url": "https://cdn.discordapp.com/avatars/1294675002762854510/37007464555f19d7665d3200f911f9f1.png?size=64",
         "discord_id": 1294675002762854510,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "joao10293",
-        "display_name": "joao10293",
-        "avatar_url": "https://cdn.discordapp.com/avatars/848347684565155861/c0713cead50f71de4cbe807e3a018c70.png?size=64",
-        "discord_id": 848347684565155861,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "rolim.exe",
-        "display_name": "Rolim",
-        "avatar_url": "https://cdn.discordapp.com/avatars/425401738695278599/9887a9e95a9fc4f80500b807b5cb4093.png?size=64",
-        "discord_id": 425401738695278599,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "kevinapenas",
-        "display_name": "kv7",
-        "avatar_url": "https://cdn.discordapp.com/avatars/789468635626340362/acf1acd9727d965bff1fa894f63f39ab.png?size=64",
-        "discord_id": 789468635626340362,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "fvkbill",
-        "display_name": "cookie",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1171241985307316305/56857fc4bcc958d76c8ba12ec0de0fb4.png?size=64",
-        "discord_id": 1171241985307316305,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "euodeioxadrez",
         "display_name": "Flakez",
         "avatar_url": "https://cdn.discordapp.com/avatars/1172237946892587012/527298edf70c17813569900b387a9534.png?size=64",
         "discord_id": 1172237946892587012,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "itzviagain.",
-        "display_name": "Vi",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1274189489555767319/34e29e3e1cf40700988d949908822bfb.png?size=64",
-        "discord_id": 1274189489555767319,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "felipe010910",
         "display_name": "felipe no arco de treinamento",
         "avatar_url": "https://cdn.discordapp.com/avatars/1182798114814431344/7582279a12fc45e7e9baaa8a77acdca2.png?size=64",
         "discord_id": 1182798114814431344,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
-        "username": "021acerola",
-        "display_name": "ace",
-        "avatar_url": "https://cdn.discordapp.com/avatars/831872481132150815/cdafbed276ac7b3cdc14b9799f521456.png?size=64",
-        "discord_id": 831872481132150815,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "cabalo0400",
-        "display_name": "cabalo",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "discord_id": 422562915049013250,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "yoruz._",
-        "display_name": "Yoruz",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1293645630148706466/b1c82881c8c44b80feb1535ecb6311e2.png?size=64",
-        "discord_id": 1293645630148706466,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "confident_possum_05433",
-        "display_name": "confident",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-        "discord_id": 1339049229598855231,
-        "has_mestre_mirim": false
+        "username": "calabreso770565",
+        "display_name": "Don",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1224025163113173314/e560f6257092684f230ec6edc66dddde.png?size=64",
+        "discord_id": 1224025163113173314,
+        "has_mestre_junior": true
     },
     {
         "username": "contanovamovamente",
         "display_name": "fazendo tatico",
         "avatar_url": "https://cdn.discordapp.com/avatars/1409127520950812774/631ec8c1fcfdd9aab07759e34db462bb.png?size=64",
         "discord_id": 1409127520950812774,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "wnck_crn",
         "display_name": "Demian",
         "avatar_url": "https://cdn.discordapp.com/avatars/1319379702464516146/c80bf4703ff0dadc07c7a56890d86031.png?size=64",
         "discord_id": 1319379702464516146,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "yanniezx",
-        "display_name": "Brayan¹",
-        "avatar_url": "https://cdn.discordapp.com/avatars/533784705091239942/204010d2564fdfaf7b250e8d33a56d78.png?size=64",
-        "discord_id": 533784705091239942,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "halaken",
-        "display_name": "halaken",
-        "avatar_url": "https://cdn.discordapp.com/avatars/773610410020569128/01692d062bc422cdde4d12eb207420fe.png?size=64",
-        "discord_id": 773610410020569128,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "guto06741",
-        "display_name": "guto",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-        "discord_id": 823276346381434910,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "aviao97",
-        "display_name": "Aviao97",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1438744825745903766/7dd533d404128ae5f3bb96f2e0e7e50c.png?size=64",
-        "discord_id": 1438744825745903766,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "4ndrilly_12416",
-        "display_name": "☆°• Niam •°☆",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1253036704072335444/e885b6dc08f53e42a7ba64b0e0c0ad3f.png?size=64",
-        "discord_id": 1253036704072335444,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "dzn7x",
-        "display_name": "Wizy         dzn🇹🇷",
-        "avatar_url": "https://cdn.discordapp.com/avatars/934305955880009768/98a1b139a85dab918dcf28b49fb9e314.png?size=64",
-        "discord_id": 934305955880009768,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "noble.wolf7317_57742",
-        "display_name": "Noble.Wolf7317",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1364313436577857598/31d3b85753a185028b244e1a225b04c8.png?size=64",
-        "discord_id": 1364313436577857598,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "slimestatus_",
-        "display_name": "SLIME STATUS",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
-        "discord_id": 1458437077182976052,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "djjfelmg",
-        "display_name": "NovaLegend214",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1442164926713167943,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "rexgameplay1",
         "display_name": "🌀|⚡Rex Yuki⚡|🌀",
         "avatar_url": "https://cdn.discordapp.com/avatars/619646064462659594/01c4777aa92758c5d0222223afaddcc4.png?size=64",
         "discord_id": 619646064462659594,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "kaiqu290_81537",
-        "display_name": "luy",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1199794283272749086/eb99b27f39a296f7e3ec02df086e3214.png?size=64",
-        "discord_id": 1199794283272749086,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "st0nks3",
-        "display_name": "Stonks",
-        "avatar_url": "https://cdn.discordapp.com/avatars/812094297868337174/75b9ed82b105c071c18a2cc61080f75a.png?size=64",
-        "discord_id": 812094297868337174,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "pl3be.",
         "display_name": "愛王都",
         "avatar_url": "https://cdn.discordapp.com/avatars/593973848844795905/9e714165349d0f41fa5d06b648125e3e.png?size=64",
         "discord_id": 593973848844795905,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "sr.catnightmare",
-        "display_name": "Sr Cat",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1060251795395465378/351928092f0832ad8635916acfe18aa3.png?size=64",
-        "discord_id": 1060251795395465378,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "goncalvezgoat",
-        "display_name": "goncalvez",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1357885795595194511/77ddb8168753d2a1c45905ca13e854ca.png?size=64",
-        "discord_id": 1357885795595194511,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": ".sousa7",
-        "display_name": "mota",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1077568489658781696/b426502007d29c3916edc04118c5627c.png?size=64",
-        "discord_id": 1077568489658781696,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "malux7.",
         "display_name": "tudo y nada",
         "avatar_url": "https://cdn.discordapp.com/avatars/1359543149273415762/8569adcbd36c70a7578c017bf5604ea5.png?size=64",
         "discord_id": 1359543149273415762,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "perdigaz_feijao",
-        "display_name": "Png_do_Lili",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1157463153899229184/85ac3fcdab402924febd9f559e079445.png?size=64",
-        "discord_id": 1157463153899229184,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "nurtkepse",
-        "display_name": "nurtkepse",
-        "avatar_url": "https://cdn.discordapp.com/avatars/660148914401574972/acc639974bf5e557ba0e4a44438b4c35.png?size=64",
-        "discord_id": 660148914401574972,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "mgzinn024",
-        "display_name": "Mgzinn024",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1319768117643182131/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=64",
-        "discord_id": 1319768117643182131,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "caraaleatorio1234.",
-        "display_name": "Alfabeto",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-        "discord_id": 447910554993164308,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "temerproibiuozap",
-        "display_name": "temer",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1333398779360972866/08b307946935b9d4d23a9acdc0d73e0a.png?size=64",
-        "discord_id": 1333398779360972866,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "dogealenda",
         "display_name": "Soneca ☕",
         "avatar_url": "https://cdn.discordapp.com/avatars/1133499614738268210/21f7fa95e2f31d16eed13f2d73d1b34e.png?size=64",
         "discord_id": 1133499614738268210,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "niksttwen",
         "display_name": "Estrionio",
         "avatar_url": "https://cdn.discordapp.com/avatars/1235011099888324648/7b23f3365c7f34d9f1ab7b08e1b36b06.png?size=64",
         "discord_id": 1235011099888324648,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "pekka00817",
-        "display_name": "pekka",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-        "discord_id": 1289047828563492945,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "74bm",
         "display_name": "itália",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1247656397592858795/e22c95eebf088b04f365e3ab9839691b.png?size=64",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1247656397592858795/e2e576ca09ce22ac6793323a3bb128c1.png?size=64",
         "discord_id": 1247656397592858795,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "ryuukyusaki",
-        "display_name": "Ryu",
-        "avatar_url": "https://cdn.discordapp.com/avatars/756291923186024498/12e9874c3c394d6c06e10bdecb965031.png?size=64",
-        "discord_id": 756291923186024498,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "marlonwq",
-        "display_name": "Marlon",
-        "avatar_url": "https://cdn.discordapp.com/guilds/1318733156232204289/users/782746642574344205/avatars/b2c48f4e4b4d38084285e1ba8d8442ed.png?size=64",
-        "discord_id": 782746642574344205,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "naoseidk",
-        "display_name": "gabrieo (conta suspensa)",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1336326401187643413/b02d10357e767b8d2df437ce2b00d5b9.png?size=64",
-        "discord_id": 1336326401187643413,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "sujirokemimamid4",
-        "display_name": "Guilherme Antônio",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1274849655649341645/ae6851e3f4d4b374aa2d43cd6c1f08b4.png?size=64",
-        "discord_id": 1274849655649341645,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "vrey9441",
-        "display_name": "VREY",
-        "avatar_url": "https://cdn.discordapp.com/avatars/802010968196251709/8ef68f7a8b6dddaba313b5ad5c2b3c10.png?size=64",
-        "discord_id": 802010968196251709,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "sherlock_ofchess",
         "display_name": "Sherlock_ofchess",
         "avatar_url": "https://cdn.discordapp.com/avatars/1330250734603735052/3f6e6dc6f30f315e029d20894d845c9d.png?size=64",
         "discord_id": 1330250734603735052,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "apenasfelix",
-        "display_name": "! 🚀Félix🚀",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1004580959728975944/a_1202442e6ddccaec195d2a9b57560018.gif?size=64",
-        "discord_id": 1004580959728975944,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "Jockie Music",
-        "display_name": "Jockie Music",
-        "avatar_url": "https://cdn.discordapp.com/avatars/411916947773587456/fe70c914c4a2614c21ee5d2706415d2b.png?size=64",
-        "discord_id": 411916947773587456,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "satoshi0329",
-        "display_name": "MUTANO",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1174078622747873421/9960bf04b6422e5c8dfe3e449c74b440.png?size=64",
-        "discord_id": 1174078622747873421,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "viaanavoluptuous",
-        "display_name": "Viana 8 anos",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1200105712366399562/66c86586ceaf22a1ef2427bd958c37db.png?size=64",
-        "discord_id": 1200105712366399562,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "dragonkaiser7",
-        "display_name": "Dragon Kaiser",
-        "avatar_url": "https://cdn.discordapp.com/avatars/993897982384672829/bb182a4ac97ddeda432171438b995ac8.png?size=64",
-        "discord_id": 993897982384672829,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "leandrolele25",
-        "display_name": "Enxadrista  AFM Leandro RZR",
-        "avatar_url": "https://cdn.discordapp.com/avatars/795653720410816553/ca8e09a552eff9198ad7b68d872ac57e.png?size=64",
-        "discord_id": 795653720410816553,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "liebertkai",
         "display_name": "ブラックラビー",
         "avatar_url": "https://cdn.discordapp.com/avatars/1310622700279955478/ea7db8bc1a79f025a9aeee3c8b163ec0.png?size=64",
         "discord_id": 1310622700279955478,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "spy056151",
-        "display_name": "spy",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1424821030681317449/790e629feb62a5e8fbd07136b039f998.png?size=64",
-        "discord_id": 1424821030681317449,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "guilhermedd_",
-        "display_name": "Gl.xtrem",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1045492396844122264/398a4e03b1d6c5eb5eb7c1e83e3598ed.png?size=64",
-        "discord_id": 1045492396844122264,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "GarticBOT",
-        "display_name": "GarticBOT",
-        "avatar_url": "https://cdn.discordapp.com/avatars/487328045275938828/948e064334d41436e4aaeddb474eca9b.png?size=64",
-        "discord_id": 487328045275938828,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "e.rico.",
-        "display_name": "ericoco",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1259270557900476519/3e72197a258262602654fad7260ef884.png?size=64",
-        "discord_id": 1259270557900476519,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "vegetaxadrez",
-        "display_name": "Vegeta Xadrez",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1435010410464940202/fea2333568d883596c5672dd20a19e3f.png?size=64",
-        "discord_id": 1435010410464940202,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "portuga25",
-        "display_name": "Portuga",
-        "avatar_url": "https://cdn.discordapp.com/avatars/560191829346222087/7214704d1f373c7f09fa2a41890cd637.png?size=64",
-        "discord_id": 560191829346222087,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "stocklynn",
-        "display_name": "𝑺𝒕𝒐𝒄𝒌𝑳𝒚𝒏𝒏",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1388623580115370074/573ed71349b8691ba10e96c0509883b0.png?size=64",
-        "discord_id": 1388623580115370074,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "tutuxx",
-        "display_name": "tutuxx",
-        "avatar_url": "https://cdn.discordapp.com/avatars/518286026024812546/747ea6fbbfa0092b02bbab30bd55ebaa.png?size=64",
-        "discord_id": 518286026024812546,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "strofeit_74913",
-        "display_name": "Strofeit",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1337168271044120716/dd5d2cec63cda33f6d5d51b90f603ba7.png?size=64",
-        "discord_id": 1337168271044120716,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "viktor_hg",
         "display_name": "vitin202gamer23",
         "avatar_url": "https://cdn.discordapp.com/avatars/859421640608841769/2b8e0d169ee06894b862556ad5ab2a33.png?size=64",
         "discord_id": 859421640608841769,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "duduartee_",
-        "display_name": "Duarte",
-        "avatar_url": "https://cdn.discordapp.com/avatars/392801573618843669/014d43d845edc999899e9f0d855f7085.png?size=64",
-        "discord_id": 392801573618843669,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "taldubara",
-        "display_name": "taldubara",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1346614081687257139/36c866aab8d872b53e5234657a9caaac.png?size=64",
-        "discord_id": 1346614081687257139,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bulletchess1min",
-        "display_name": "bullet plug",
-        "avatar_url": "https://cdn.discordapp.com/avatars/247501046094626817/9998cfb674c744b96e9453e2ab33eb45.png?size=64",
-        "discord_id": 247501046094626817,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "vendelkkk",
-        "display_name": "Shadow",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1276687466237001829/eee782e7982d336be360c3af5c777e44.png?size=64",
-        "discord_id": 1276687466237001829,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "FlaviBot",
-        "display_name": "FlaviBot",
-        "avatar_url": "https://cdn.discordapp.com/avatars/684773505157431347/a_521d1afb63e630ee2baabc76d9a3b723.gif?size=64",
-        "discord_id": 684773505157431347,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lucasggr",
-        "display_name": "lucasggr",
-        "avatar_url": "https://cdn.discordapp.com/avatars/968605905606303784/040385c60db1e9a54a6df97d2af950da.png?size=64",
-        "discord_id": 968605905606303784,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "miniutti3325",
-        "display_name": "Miniutti",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1417532044992446485/1b8a310f54aff9a08e54a8bc17ecc2d6.png?size=64",
-        "discord_id": 1417532044992446485,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gurnoor_hunter_22200",
-        "display_name": "RDX_Hunter",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1264563263530602526/9967e5937e5b1af6f5c049c915c639b4.png?size=64",
-        "discord_id": 1264563263530602526,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "wermesschess01",
-        "display_name": "Wermeschess001",
-        "avatar_url": "https://cdn.discordapp.com/avatars/514466719415271424/410572f1e06c760a71835f049dd252bb.png?size=64",
-        "discord_id": 514466719415271424,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "galileu968",
         "display_name": "Hikari (conta fora de uso)",
         "avatar_url": "https://cdn.discordapp.com/avatars/1178313566760222731/84962b0fe370113e9ac80c4bda50b954.png?size=64",
         "discord_id": 1178313566760222731,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "tobasliwyathan",
-        "display_name": "Liwy",
-        "avatar_url": "https://cdn.discordapp.com/avatars/912879665457299466/9f2ee4710f7f9ad29ddb8ee314112638.png?size=64",
-        "discord_id": 912879665457299466,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "budou",
-        "display_name": "Budou",
-        "avatar_url": "https://cdn.discordapp.com/avatars/320949476070260750/5d11ace4230b886e31fd8fe7d6c8492d.png?size=64",
-        "discord_id": 320949476070260750,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "space_k7.369",
-        "display_name": "!𝐬𝐩𝐚𝐜𝐞 𝐝𝐚 𝐦𝐨𝐜𝐚",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1177419035609153569/c2d7f46ef0353bb3bb333b3a62ef8123.png?size=64",
-        "discord_id": 1177419035609153569,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "time_in_a_bottle",
         "display_name": "time_in_a_bottle",
         "avatar_url": "https://cdn.discordapp.com/avatars/762071071817203762/c62ef1ad9d0a5d1a3a404978eb49a924.png?size=64",
         "discord_id": 762071071817203762,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "tomaate.",
-        "display_name": "Polaroid_",
-        "avatar_url": "https://cdn.discordapp.com/avatars/811276384952516638/d68fe3923f73e7fd7ad2481e0cadee00.png?size=64",
-        "discord_id": 811276384952516638,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "pedrosaboleskilamb",
-        "display_name": "Pedro",
-        "avatar_url": "https://cdn.discordapp.com/avatars/932387373197701190/13d3c7e086fbc39f88c6dad9806c2ee2.png?size=64",
-        "discord_id": 932387373197701190,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "pengoul",
         "display_name": "Pengo",
         "avatar_url": "https://cdn.discordapp.com/avatars/990072310180499557/afad59b83b23c8faa2623628907eb261.png?size=64",
         "discord_id": 990072310180499557,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "orbit_xx",
-        "display_name": "ᴏʀʙɪᴛ",
-        "avatar_url": "https://cdn.discordapp.com/avatars/977355854661685309/db116ad675945eeaa78695e70e1ede92.png?size=64",
-        "discord_id": 977355854661685309,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": ".nicejv",
-        "display_name": "𝐧𝐢𝐜𝐞𝐉𝐕 ザ",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1123685529955860610/6c0e7fc148733ac3ba5cbea9b3eafa1a.png?size=64",
-        "discord_id": 1123685529955860610,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "starbao",
         "display_name": "Star",
         "avatar_url": "https://cdn.discordapp.com/avatars/1162138924550991932/0592ede50f8d207972f00e7a2e5959a5.png?size=64",
         "discord_id": 1162138924550991932,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "iamkiyu",
-        "display_name": "kiyu",
-        "avatar_url": "https://cdn.discordapp.com/avatars/876285403412447263/2336c16c4800cabb55443464e89c86ad.png?size=64",
-        "discord_id": 876285403412447263,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ChessvisionAiBot",
-        "display_name": "ChessvisionAiBot",
-        "avatar_url": "https://cdn.discordapp.com/avatars/798195105927528569/770e34cdeb5fb464cbf9f9ccc6478508.png?size=64",
-        "discord_id": 798195105927528569,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "mazurkiewich",
         "display_name": "d4vi zero-cope",
         "avatar_url": "https://cdn.discordapp.com/avatars/1253899376644849667/885ccf8535c7f0c295d070d08ff90220.png?size=64",
         "discord_id": 1253899376644849667,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "_matiak",
-        "display_name": "Matiak",
-        "avatar_url": "https://cdn.discordapp.com/avatars/367751935438094366/93232d8ceca379fbefb182cd7ce386ba.png?size=64",
-        "discord_id": 367751935438094366,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "albertoluian",
-        "display_name": "luian",
-        "avatar_url": "https://cdn.discordapp.com/avatars/525610727889698847/15a411d625c2fa91eb96ce0ec68bbb57.png?size=64",
-        "discord_id": 525610727889698847,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "johnzinhoo.",
-        "display_name": "Johnzinhoo",
-        "avatar_url": "https://cdn.discordapp.com/avatars/759194971332411412/053c0a0a774faf009f63e118f04098ae.png?size=64",
-        "discord_id": 759194971332411412,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "doc.ovni",
-        "display_name": "Pataquada",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1335679412645007502/fea2bc55ffcb4618d1efa69226bb9479.png?size=64",
-        "discord_id": 1335679412645007502,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "apolloxt11",
-        "display_name": "Apolo",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1352229581989609552/157e517cdbf371a47aaead44675714a3.png?size=64",
-        "discord_id": 1352229581989609552,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gabrielzinhoff",
-        "display_name": "Gimenes",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1101366731336855623/88812c2a1413b636fcead38393ffabaa.png?size=64",
-        "discord_id": 1101366731336855623,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ffragata",
-        "display_name": "Fragata",
-        "avatar_url": "https://cdn.discordapp.com/avatars/901621936189227059/739614fcf5156bd171f6c0c3970933ee.png?size=64",
-        "discord_id": 901621936189227059,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "gatopikka",
-        "display_name": "♧ 𝙶𝚞𝚐𝚞 ♤",
-        "avatar_url": "https://cdn.discordapp.com/avatars/701484184153358437/30e8ff70d489d70743b998bdd68101ff.png?size=64",
-        "discord_id": 701484184153358437,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "heey0876",
         "display_name": "Eletroworst (malambo na chula)",
         "avatar_url": "https://cdn.discordapp.com/avatars/432354556249112577/ab58d44044fabff9f2e1f7493fdc5861.png?size=64",
         "discord_id": 432354556249112577,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "criatura.nefasta",
-        "display_name": "Rafael",
-        "avatar_url": "https://cdn.discordapp.com/avatars/529344701430759470/5ec9ca0b896c68ddbe01d30ed0485157.png?size=64",
-        "discord_id": 529344701430759470,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "teladoheey",
-        "display_name": "TELA DO HEEY",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-        "discord_id": 1436461938724044920,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "supreme3805",
-        "display_name": "Supreme",
-        "avatar_url": "https://cdn.discordapp.com/avatars/915694661123862618/c02a95db3343a16a8ae6ed24e0d303c2.png?size=64",
-        "discord_id": 915694661123862618,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "sememprego",
-        "display_name": "Desempregado",
-        "avatar_url": "https://cdn.discordapp.com/avatars/925351810762420234/4dc377633097994303a8c03314e075d3.png?size=64",
-        "discord_id": 925351810762420234,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "tomass_kapivarov",
-        "display_name": "0 d",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1282761306918883499/40936d41a7dbac21a521a7a1552f4be4.png?size=64",
-        "discord_id": 1282761306918883499,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "kaiser_chess",
         "display_name": "Der Kaiser ♟",
         "avatar_url": "https://cdn.discordapp.com/avatars/1018605153307336715/b2103b8623da9b0f1861d83bd440c5ab.png?size=64",
         "discord_id": 1018605153307336715,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "r_user.",
-        "display_name": "R_User12",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1133104219214323762/ac41aa98be91c01ce7908df187bea763.png?size=64",
-        "discord_id": 1133104219214323762,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "yami6615",
         "display_name": "Yami",
         "avatar_url": "https://cdn.discordapp.com/avatars/775890512053272586/a_3079533686aa1701aac16dd3a92577ed.gif?size=64",
         "discord_id": 775890512053272586,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "meynar_juju",
-        "display_name": "Isagi_chess 📍",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1075841341872934923/2d081a3a950efb8bd834d08704076d32.png?size=64",
-        "discord_id": 1075841341872934923,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "lovedz",
         "display_name": "FeralMoves",
         "avatar_url": "https://cdn.discordapp.com/avatars/320502270657691648/fd0747868c3693dc83c1faadb7931d1d.png?size=64",
         "discord_id": 320502270657691648,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "adriellsus",
-        "display_name": "Magrin",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1136381151276191784/ff52c77d91ddff033d977fc6bd39fda5.png?size=64",
-        "discord_id": 1136381151276191784,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "blacksin2328",
-        "display_name": "Jogou pensado durmiu",
-        "avatar_url": "https://cdn.discordapp.com/avatars/771343425068597278/28a0caea3939882b08ddf22c47c1b124.png?size=64",
-        "discord_id": 771343425068597278,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "DISBOARD",
-        "display_name": "DISBOARD",
-        "avatar_url": "https://cdn.discordapp.com/avatars/302050872383242240/67342a774a9f2d20d62bfc8553bb98e0.png?size=64",
-        "discord_id": 302050872383242240,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "isqueiraa",
         "display_name": "isqueteca",
         "avatar_url": "https://cdn.discordapp.com/avatars/599729845278081024/d4eebe2e98748dd2d3e556f580cc6ed6.png?size=64",
         "discord_id": 599729845278081024,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "mini_normal",
-        "display_name": "MiniNormal",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1135678857781981275/25b46c6a1b22b8085ab80eab6def98a9.png?size=64",
-        "discord_id": 1135678857781981275,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "brzuero",
         "display_name": "Noir",
         "avatar_url": "https://cdn.discordapp.com/guilds/1318733156232204289/users/715904530260295730/avatars/d0019be2695e9b1320f212425b9b904b.png?size=64",
         "discord_id": 715904530260295730,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "drialdel",
-        "display_name": "Silver",
-        "avatar_url": "https://cdn.discordapp.com/avatars/621111941171249192/3c28ae363736a1863495e24956367187.png?size=64",
-        "discord_id": 621111941171249192,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "logica_16",
-        "display_name": "Lógica",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1204517597006008360/f774f7147a3f0ac53182d3837ec9b0cb.png?size=64",
-        "discord_id": 1204517597006008360,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "marcos34",
-        "display_name": "marcos®, (chitão)",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1014731318120157256/10c33c1ded970c5d7d14e8fb71515bd0.png?size=64",
-        "discord_id": 1014731318120157256,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "filoteia_ihs",
-        "display_name": "Filoteia",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1336438064075243671/375d984eeced10f5588a3cab160b5ffa.png?size=64",
-        "discord_id": 1336438064075243671,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "mr.operavel",
-        "display_name": "Mr.operavel",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1363351468660363406/c70511ad89b0cd3ed457ccadb0ef2b0a.png?size=64",
-        "discord_id": 1363351468660363406,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "fox5295",
-        "display_name": "codein",
-        "avatar_url": "https://cdn.discordapp.com/avatars/759771569235951638/db8d77a9a18bd1b23e91417d6bc9e807.png?size=64",
-        "discord_id": 759771569235951638,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "fernandox7._",
-        "display_name": "Fernando7",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1343292611515121736,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "chikkuu2109",
-        "display_name": "Chikkuu",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-        "discord_id": 753486634355523614,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "_triple7_.",
         "display_name": "Triple7",
         "avatar_url": "https://cdn.discordapp.com/avatars/565901736456224779/a08b82f769921cb1b8dbcfea1187424e.png?size=64",
         "discord_id": 565901736456224779,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
-        "username": "colemanzzz",
-        "display_name": "colemanzzz 🕸🕷",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1405875847394492416/4977c78d159bf91e2184c1aaf4bc4e2d.png?size=64",
-        "discord_id": 1405875847394492416,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "amir_pc23",
-        "display_name": "amir pc",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1335366449249914994/8679d05601d7bb3aa246a8cbdc044c8f.png?size=64",
-        "discord_id": 1335366449249914994,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ninjiba",
-        "display_name": "BetterCaulChess",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1275221742469775381/a495ca96704e43741a9e4dc3ee687600.png?size=64",
-        "discord_id": 1275221742469775381,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ianbarroso",
-        "display_name": "BOLINHA",
-        "avatar_url": "https://cdn.discordapp.com/avatars/778621031563919371/481f2e253dfc656c5a96c8a5492f6754.png?size=64",
-        "discord_id": 778621031563919371,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "le3ft",
-        "display_name": "Le3ft",
-        "avatar_url": "https://cdn.discordapp.com/avatars/811359378644402276/816ac77cef6c3ddc42e10e17ba541efc.png?size=64",
-        "discord_id": 811359378644402276,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "nekrozzsx_",
-        "display_name": "VoorheeZ",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1221154538061435032/31ead598d7fa8a8a6739d372a02707e3.png?size=64",
-        "discord_id": 1221154538061435032,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "davisilva_6299_34129",
-        "display_name": "Davizin",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1226356044888932483/bedfa8b44b3aa0c02956b9d12759af2f.png?size=64",
-        "discord_id": 1226356044888932483,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "hatakos",
-        "display_name": "Hatake",
-        "avatar_url": "https://cdn.discordapp.com/avatars/763531568743448618/8a305ff3dfc3a1d3066c6462a62c1d8d.png?size=64",
-        "discord_id": 763531568743448618,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "joe_lxp",
-        "display_name": "𝓣𝓱🧢💤",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1084156665227653304/a9fb201345804424fdcb5f39097715d6.png?size=64",
-        "discord_id": 1084156665227653304,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bell369521",
-        "display_name": "Satoru",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1372336223959388201/16851a89cea4857d6ab2fef25c483c09.png?size=64",
-        "discord_id": 1372336223959388201,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "rodrigolppz",
-        "display_name": "rodrigo",
-        "avatar_url": "https://cdn.discordapp.com/avatars/750880687950921809/4ee7a27b1f66c15d7ec56f6302e449e9.png?size=64",
-        "discord_id": 750880687950921809,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "s2_bubbles_s2",
-        "display_name": "Umii >.<",
-        "avatar_url": "https://cdn.discordapp.com/avatars/701173513968418868/00c2fdbee9a35b69081264bcca7f8198.png?size=64",
-        "discord_id": 701173513968418868,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "cbug0557",
-        "display_name": "Hl",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1409586920765259818/101181c8071f76fe71c69da22d0227c9.png?size=64",
-        "discord_id": 1409586920765259818,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "eidriangabriel",
-        "display_name": "Eidrian",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1190272223286673459/29f3d0101cc8cd937454737bc50619a9.png?size=64",
-        "discord_id": 1190272223286673459,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "Ticket Tool",
-        "display_name": "Ticket Tool",
-        "avatar_url": "https://cdn.discordapp.com/avatars/557628352828014614/dd89587457ef9f971d331426cad9e2be.png?size=64",
-        "discord_id": 557628352828014614,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "dig157",
-        "display_name": "dig157",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-        "discord_id": 1033681384952315964,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "theministermoloch6839",
-        "display_name": "THE MINISTER MOLOHCH☆",
-        "avatar_url": "https://cdn.discordapp.com/avatars/812875806115889163/7496fe16278a3602f0cca2bb9a6fb1c6.png?size=64",
-        "discord_id": 812875806115889163,
-        "has_mestre_mirim": false
+        "username": "don2.0.",
+        "display_name": "Don",
+        "avatar_url": "https://cdn.discordapp.com/avatars/1160313321510162533/c8b1b2fc0e7c3a814345a03c3fa2791c.png?size=64",
+        "discord_id": 1160313321510162533,
+        "has_mestre_junior": false
     },
     {
         "username": "dragon003",
         "display_name": "Dragon (meta: derrotar Melissa)",
         "avatar_url": "https://cdn.discordapp.com/avatars/520356428771491860/10b92bf601e8a801e590513189b4a814.png?size=64",
         "discord_id": 520356428771491860,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "arcamj9",
-        "display_name": "STY3",
-        "avatar_url": "https://cdn.discordapp.com/avatars/777995646782668862/11807daf59bfe7e07c271e264f8afdcb.png?size=64",
-        "discord_id": 777995646782668862,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "dudu0782",
-        "display_name": "Dudu Lins Censurado",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1078892451357540423/d343a615614118329e30fa960432ade2.png?size=64",
-        "discord_id": 1078892451357540423,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "minato033",
-        "display_name": "minato033",
-        "avatar_url": "https://cdn.discordapp.com/avatars/867557131451367475/f71440818aaaa9145ef9f891f8f3022b.png?size=64",
-        "discord_id": 867557131451367475,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "natan026",
-        "display_name": "Sei lá",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1001391221136183336/275b4642ff0011c35d70b20b3c876293.png?size=64",
-        "discord_id": 1001391221136183336,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "justo.jr0",
-        "display_name": "Sr.Frog",
-        "avatar_url": "https://cdn.discordapp.com/avatars/804837942647455814/2a716980c8f3cb9519e6fb4c2a113a15.png?size=64",
-        "discord_id": 804837942647455814,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "wdgaster9246",
-        "display_name": "wdgaster",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-        "discord_id": 876130318648741889,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "carlosxz78",
-        "display_name": "?",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1391503694335574171/881d74dbce82baca3bf31db684b02413.png?size=64",
-        "discord_id": 1391503694335574171,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "andrade8638",
         "display_name": "Vitor",
         "avatar_url": "https://cdn.discordapp.com/avatars/460331632201564162/d9ac9a94b6c371e891ccf5c9328eb110.png?size=64",
         "discord_id": 460331632201564162,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "individuo1284832",
-        "display_name": "Русский",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1338925697439240324/32a73bd5da8581973ec1f6f2262a85b8.png?size=64",
-        "discord_id": 1338925697439240324,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "bela_666.",
         "display_name": "Bela",
         "avatar_url": "https://cdn.discordapp.com/avatars/898969426811035678/33e5a5d26cc0a2e8ea025262e3e43ac7.png?size=64",
         "discord_id": 898969426811035678,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "yohan_perez_92351",
-        "display_name": "Yohan",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-        "discord_id": 1219831515421212682,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "flareaquramtad_",
-        "display_name": "germanico",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1343614566441029652/506fad6ba5c9d842731039b92f806d43.png?size=64",
-        "discord_id": 1343614566441029652,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "parryyyyy",
-        "display_name": "𝓟𝓮𝓻𝓻𝔂 𝓵𝓲𝓷𝓭𝓸 𝓽𝓸𝓽𝓸𝓼",
-        "avatar_url": "https://cdn.discordapp.com/avatars/945806703117598760/b2a8fc90d5869fa126e8e2fa7450b1ba.png?size=64",
-        "discord_id": 945806703117598760,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ashborn0424",
-        "display_name": "Ashborn",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1358108796014039102/3b78ec3b6d3b7d68fde8591ca8d3cd86.png?size=64",
-        "discord_id": 1358108796014039102,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "lynnchan2k",
-        "display_name": "𝑳𝒚𝒏𝒏",
-        "avatar_url": "https://cdn.discordapp.com/avatars/822286909157146695/034b76ae3256b096c6e61251eb7d7233.png?size=64",
-        "discord_id": 822286909157146695,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "pokasbella09_20314",
-        "display_name": "isaaa",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1426396540775174214/7811828203997d0ec7af94d301a478d4.png?size=64",
-        "discord_id": 1426396540775174214,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "mongolllllll",
-        "display_name": "Shadow",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1427457873658646670/8569adcbd36c70a7578c017bf5604ea5.png?size=64",
-        "discord_id": 1427457873658646670,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "magiclaplaga",
-        "display_name": "⛧problemático ⛧",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1258619522609446923/0acb7a5906ebb93eb2431911e63ca516.png?size=64",
-        "discord_id": 1258619522609446923,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "psteso",
-        "display_name": "magnus carlsen",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1034982039251845202/7f25a83087c94f9d3113a85d5c899def.png?size=64",
-        "discord_id": 1034982039251845202,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "heitorbigbig",
-        "display_name": "Bigbig",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1157659334935847025/492ebd1de605920e44134737e39c1b62.png?size=64",
-        "discord_id": 1157659334935847025,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "FreeStuff",
-        "display_name": "FreeStuff",
-        "avatar_url": "https://cdn.discordapp.com/avatars/672822334641537041/e86b9ed1e5779b5ba1a3694477a6f5fc.png?size=64",
-        "discord_id": 672822334641537041,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "brasil_countryballs336",
-        "display_name": "Brasil_countryballs336🇧🇷",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1304527889189965824/0550749b019d3da72466fd45a96fa90d.png?size=64",
-        "discord_id": 1304527889189965824,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "simonp.1313",
-        "display_name": "simon ;-;",
-        "avatar_url": "https://cdn.discordapp.com/avatars/512722185622913037/b4deac1536a757ca899cebb9836bd8a3.png?size=64",
-        "discord_id": 512722185622913037,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "csbraint",
         "display_name": "CSBRAINT",
         "avatar_url": "https://cdn.discordapp.com/avatars/1199476446809296920/b19485ed30c60f7d264348ffeaf5e0c0.png?size=64",
         "discord_id": 1199476446809296920,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "isaacobscuro",
         "display_name": "Fischer pugilista",
         "avatar_url": "https://cdn.discordapp.com/avatars/503041637543575553/a898063f11ec8b94d307623e6db506ee.png?size=64",
         "discord_id": 503041637543575553,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "rick_rani",
-        "display_name": "Rick Rani",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1269127489100189696/ed728db49f1c00e14fda90748b647dfe.png?size=64",
-        "discord_id": 1269127489100189696,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "pedrinn3410",
         "display_name": "Osama Bilada",
         "avatar_url": "https://cdn.discordapp.com/avatars/594990473689694218/31c9c5c58baa85d68f639fb2225cfb05.png?size=64",
         "discord_id": 594990473689694218,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "MonitoRSS",
-        "display_name": "Chess Deep News",
-        "avatar_url": "https://cdn.discordapp.com/avatars/268478587651358721/b2d4f57616590969848de0fdc4e159eb.png?size=64",
-        "discord_id": 268478587651358721,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "zeusxalocv",
-        "display_name": "Zeus",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1296528727597121566/9d75451433d2cd9b75df5cb01a7332aa.png?size=64",
-        "discord_id": 1296528727597121566,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "isaquedocrack",
-        "display_name": "isaquelenda",
-        "avatar_url": "https://cdn.discordapp.com/avatars/665678539009294356/7801dd58a66da15b40c8d411538d0f48.png?size=64",
-        "discord_id": 665678539009294356,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "yogustavinflux",
-        "display_name": "Gusta Flux",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1134921616476876800/e2a65a00b99d1adf3c8140cb7ff116d6.png?size=64",
-        "discord_id": 1134921616476876800,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "logbaittv",
-        "display_name": "HEROS/ARROWS",
-        "avatar_url": "https://cdn.discordapp.com/avatars/770016390773735494/c58048e0f5f91a77e5384e934149ed7d.png?size=64",
-        "discord_id": 770016390773735494,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "charles_darwin22",
-        "display_name": "charles_darwin22",
-        "avatar_url": "https://cdn.discordapp.com/avatars/532649780468383744/72b1df06d7182d676a0ca92af9166bf9.png?size=64",
-        "discord_id": 532649780468383744,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "a.costa0836",
-        "display_name": "Andrielle",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1430686544917823641/be901e7802a1added047f0f8a4655b41.png?size=64",
-        "discord_id": 1430686544917823641,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "pedro1607.",
-        "display_name": "Pedro_Ramos",
-        "avatar_url": "https://cdn.discordapp.com/avatars/780842238207852557/4693bb3febc000b8069552a3db4a6285.png?size=64",
-        "discord_id": 780842238207852557,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "marcosl_",
-        "display_name": "Warlock_",
-        "avatar_url": "https://cdn.discordapp.com/avatars/689843376803283004/fcdbb1d44270e00aab2b17db34114310.png?size=64",
-        "discord_id": 689843376803283004,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "jadson10",
-        "display_name": "JadsonSuey",
-        "avatar_url": "https://cdn.discordapp.com/avatars/552949645425246229/9eef7a77f1a5bd9a0f9f1672e134758d.png?size=64",
-        "discord_id": 552949645425246229,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "julianochess",
-        "display_name": "Juliano chess",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1416181266251776100/a14290624e6a4570cb70338d3faf6db4.png?size=64",
-        "discord_id": 1416181266251776100,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "goba2.0",
-        "display_name": "goba.007",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1151333585958219799/fb61b033207b6cb73903cd781911513d.png?size=64",
-        "discord_id": 1151333585958219799,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bvini174",
-        "display_name": "Bruno",
-        "avatar_url": "https://cdn.discordapp.com/embed/avatars/5.png",
-        "discord_id": 1365879808638193754,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "khyln9152",
-        "display_name": "mary._xs",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1129097232747077733/6e95c5bcf1fa7df4b627a68eea46c798.png?size=64",
-        "discord_id": 1129097232747077733,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "flexzin_prime",
         "display_name": "Flexzin",
         "avatar_url": "https://cdn.discordapp.com/avatars/472419035792015362/cf791f5fa6f86e0a7f9b915f5373746e.png?size=64",
         "discord_id": 472419035792015362,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "bananaaaaaaaa.",
-        "display_name": "banana",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1243891724208836612/f44050eb4ee5d8432bc8db95539c7b98.png?size=64",
-        "discord_id": 1243891724208836612,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "kirah0ya9196",
-        "display_name": "ˋ  ▄︻デ_ \"𝐊𝚒ℝᵃ„ ══━一 ˎ",
-        "avatar_url": "https://cdn.discordapp.com/avatars/933065295927590953/0c49e1e587557ebd8f4a9ce9ab30f3e4.png?size=64",
-        "discord_id": 933065295927590953,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "rafaelr6465",
-        "display_name": "Dr.Rato Branco",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1370768476372733955/aef1e58cba7b76c1cb85fde7199ef2d3.png?size=64",
-        "discord_id": 1370768476372733955,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "ddzpeakweek666",
-        "display_name": "bixo do mal",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1170718681886625942/0672f15e15b20b090d87dacf1e5bca67.png?size=64",
-        "discord_id": 1170718681886625942,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "atacado.",
-        "display_name": "Lucasgrimm",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1188429109869695048/41a03196379e2f892f204c75370d3e84.png?size=64",
-        "discord_id": 1188429109869695048,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "facecalva4",
-        "display_name": "Facecalva4",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1450211869251076220/b0d12e6c57f009215064cace0b948b0d.png?size=64",
-        "discord_id": 1450211869251076220,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "pananu0",
-        "display_name": "Tiago",
-        "avatar_url": "https://cdn.discordapp.com/avatars/603215158445211680/2652acef910d6b1e0040a129a938b7be.png?size=64",
-        "discord_id": 603215158445211680,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "tecnoversaproduction",
-        "display_name": "Techno verse productions Manager",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1335317764071493757/4fc0ae9c2af2b2c882417c8737775fc2.png?size=64",
-        "discord_id": 1335317764071493757,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "oaj__",
-        "display_name": "oaj",
-        "avatar_url": "https://cdn.discordapp.com/avatars/887078992081981481/eec1ba934d78a2b4fa489e48b260429b.png?size=64",
-        "discord_id": 887078992081981481,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "isquick._.",
-        "display_name": "isquick",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1348990631061491786/fbab5cc2935a1756372208ff5c02fe52.png?size=64",
-        "discord_id": 1348990631061491786,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "komaedxx",
-        "display_name": "Saby",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1036736413149962362/59477d457c78feca9f56f4eeda739660.png?size=64",
-        "discord_id": 1036736413149962362,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "wolfer9613",
-        "display_name": "! Wolfer 💘",
-        "avatar_url": "https://cdn.discordapp.com/avatars/732662338397667438/6438acbd9eef38f46eeb65d5e1990ad0.png?size=64",
-        "discord_id": 732662338397667438,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "yasgabb_dfwm.",
         "display_name": "Yasmin 🍷",
         "avatar_url": "https://cdn.discordapp.com/avatars/1450667636240421031/35d0969f47b370e76823609d24aec7ba.png?size=64",
         "discord_id": 1450667636240421031,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
         "username": ".jordanlima",
         "display_name": "JordanL",
         "avatar_url": "https://cdn.discordapp.com/avatars/401433436763717632/a5b1921e970d8a7e1957aa6a390cf612.png?size=64",
         "discord_id": 401433436763717632,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     },
     {
         "username": "vinicius065309",
         "display_name": "Viniciuzzz",
         "avatar_url": "https://cdn.discordapp.com/avatars/1384216367607189647/fe1e43cf75f0bdd63e37c26674fd50db.png?size=64",
         "discord_id": 1384216367607189647,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "sweet0027",
-        "display_name": "Sweet",
-        "avatar_url": "https://cdn.discordapp.com/avatars/500513050810515467/e373bed4d64c0570071fb7192d5a35c1.png?size=64",
-        "discord_id": 500513050810515467,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "kacielalves",
-        "display_name": "Kaciel Alves",
-        "avatar_url": "https://cdn.discordapp.com/avatars/798261986411413565/665799163fe73e974127ff7f5ef460ee.png?size=64",
-        "discord_id": 798261986411413565,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "pacaro2557",
         "display_name": "Paçaro(◍•◡•◍)♡",
         "avatar_url": "https://cdn.discordapp.com/avatars/813368603385659412/e17b34ab4d2d2ebd25d966e330e96546.png?size=64",
         "discord_id": 813368603385659412,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "montecristo11",
-        "display_name": "Edmond Dantés, o conde.",
-        "avatar_url": "https://cdn.discordapp.com/avatars/928698312020865034/01e5fb641dd24264d1e338fed7b85ea0.png?size=64",
-        "discord_id": 928698312020865034,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "bea_15_19",
-        "display_name": "Ｂｅａｔｒｉｃｅ  ᵀʰᵉ ᴳᵒˡᵈᵉⁿ ᵂⁱᵗᶜʰ 🦋👑",
-        "avatar_url": "https://cdn.discordapp.com/avatars/1335797795390492757/312f2f9e3d75d6c637599317b641e067.png?size=64",
-        "discord_id": 1335797795390492757,
-        "has_mestre_mirim": false
-    },
-    {
-        "username": "colxpse",
-        "display_name": "colxpse",
-        "avatar_url": "https://cdn.discordapp.com/avatars/725464772270620815/6676b08a92b422c590393ee8fbb0dd68.png?size=64",
-        "discord_id": 725464772270620815,
-        "has_mestre_mirim": false
+        "has_mestre_junior": false
     },
     {
         "username": "gabriel_1986",
         "display_name": "gabriel1986",
         "avatar_url": "https://cdn.discordapp.com/avatars/994910425198116884/4a9406d860581404944244f81dc2c7f3.png?size=64",
         "discord_id": 994910425198116884,
-        "has_mestre_mirim": true
-    },
-    {
-        "username": "NotSoBot",
-        "display_name": "NotSoBot",
-        "avatar_url": "https://cdn.discordapp.com/avatars/439205512425504771/a_88118de015213963d91a1cfeadb3390a.gif?size=64",
-        "discord_id": 439205512425504771,
-        "has_mestre_mirim": false
+        "has_mestre_junior": true
     },
     {
         "username": "august0lisboa.",
         "display_name": "August0Lisboa",
         "avatar_url": "https://cdn.discordapp.com/avatars/1286673964386488372/311743c44b8e3dd5d162111b4950e793.png?size=64",
         "discord_id": 1286673964386488372,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "narradoreb",
         "display_name": "Narrador",
         "avatar_url": "https://cdn.discordapp.com/avatars/430884407793025025/6cd1ad2eef7f5ec9c5c396f13a8c7505.png?size=64",
         "discord_id": 430884407793025025,
-        "has_mestre_mirim": true
+        "has_mestre_junior": true
     },
     {
         "username": "svilder007",
         "display_name": "Front",
         "avatar_url": "https://cdn.discordapp.com/avatars/1441185475250356365/005f5c6c49c47a74aa89c5f5ce805d13.png?size=64",
         "discord_id": 1441185475250356365,
-        "has_mestre_mirim": true
+        "has_mestre_junior": false
     }
 ]
