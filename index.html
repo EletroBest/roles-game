@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Quem é Mestre Mirim?</title>
+<title>Quem é Mestre Júnior?</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
@@ -143,8 +143,8 @@
 
     <!-- Tela inicial -->
     <div id="start-screen">
-        <h1>Quem é Mestre Mirim?</h1>
-        <p>Descubra se você conhece os membros do servidor 👀</p>
+        <h1>Quem é Mestre Júnior?</h1>
+        <p>Descubra se você conhece os membros do servidor?</p>
         <button class="btn-start" onclick="startGame()">Começar</button>
     </div>
 
@@ -157,7 +157,7 @@
         <div id="feedback"></div>
 
 
-        <button class="btn-yes" onclick="answer(true)">Tem Mestre Mirim</button>
+        <button class="btn-yes" onclick="answer(true)">Tem Mestre Júnior</button>
         <button class="btn-no" onclick="answer(false)">Não tem</button>
     </div>
 
@@ -236,7 +236,7 @@ function answer(value) {
     const m = members[index];
     const feedback = document.getElementById("feedback");
 
-    const isCorrect = value === m.has_mestre_mirim;
+    const isCorrect = value === m.has_mestre_junior;
 
     if (isCorrect) {
         correct++;
@@ -297,7 +297,7 @@ function showResults() {
             <img src="${m.avatar_url}" alt="Avatar">
             <span>
                 <strong>${m.display_name}</strong><br>
-                ${m.has_mestre_mirim ? "Tinha Mestre Mirim" : "Não tinha Mestre Mirim"}
+                ${m.has_mestre_junior ? "Tinha Mestre Júnior" : "Não tinha Mestre Júnior"}
             </span>
         `;
 
