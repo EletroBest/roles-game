@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Quem é Mestre Mirim?</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+    * {
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background: linear-gradient(135deg, #5865F2, #2C2F33);
+        color: white;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+
+    .container {
+        background: #23272A;
+        border-radius: 16px;
+        padding: 30px;
+        width: 380px;
+        max-width: 95%;
+        text-align: center;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    img.avatar {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        margin-bottom: 15px;
+        object-fit: cover;
+        border: 4px solid #5865F2;
+    }
+
+    h1, h2 {
+        margin-top: 0;
+    }
+
+    .username {
+        opacity: 0.8;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    button {
+        width: 100%;
+        padding: 12px;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        cursor: pointer;
+        margin-top: 10px;
+        transition: 0.2s;
+    }
+
+    button:hover {
+        transform: scale(1.03);
+        opacity: 0.9;
+    }
+
+    .btn-start {
+        background: #5865F2;
+        color: #fff;
+    }
+
+    .btn-yes {
+        background: #57F287;
+        color: #000;
+    }
+
+    .btn-no {
+        background: #ED4245;
+        color: #fff;
+    }
+
+    .errors {
+        text-align: left;
+        margin-top: 20px;
+        max-height: 300px;
+        overflow-y: auto;
+    }
+
+    .error-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+        background: #2C2F33;
+        padding: 8px;
+        border-radius: 8px;
+    }
+
+    .error-item img {
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+
+    .error-item span {
+        font-size: 14px;
+    }
+
+    #progress {
+    font-size: 13px;
+    opacity: 0.6;
+    margin-bottom: 10px;
+}
+
+    #feedback {
+        margin: 12px 0;
+        font-weight: bold;
+        font-size: 16px;
+        height: 20px;
+    }
+
+    .feedback-correct {
+        color: #57F287;
+    }
+
+    .feedback-wrong {
+        color: #ED4245;
+    }
+
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Tela inicial -->
+    <div id="start-screen">
+        <h1>Quem é Mestre Mirim?</h1>
+        <p>Descubra se você conhece os membros do servidor 👀</p>
+        <button class="btn-start" onclick="startGame()">Começar</button>
+    </div>
+
+    <!-- Jogo -->
+    <div id="game-screen" class="hidden">
+        <img id="avatar" class="avatar" src="" alt="Avatar">
+        <h2 id="displayName"></h2>
+        <div id="username" class="username"></div>
+        <div id="progress" class="username"></div>
+        <div id="feedback"></div>
+
+
+        <button class="btn-yes" onclick="answer(true)">Tem Mestre Mirim</button>
+        <button class="btn-no" onclick="answer(false)">Não tem</button>
+    </div>
+
+    <!-- Resultado -->
+    <div id="result-screen" class="hidden">
+        <h1>Resultado</h1>
+        <p id="score"></p>
+
+        <div class="errors" id="errors"></div>
+
+        <button class="btn-start" onclick="location.reload()">Jogar novamente</button>
+    </div>
+
+</div>
+
+<script>
+let members = [];
+let index = 0;
+let correct = 0;
+let mistakes = [];
+
+/* =============================
+   INÍCIO DO JOGO
+============================= */
+async function startGame() {
+    try {
+        const response = await fetch("members.json");
+        members = await response.json();
+
+        if (!Array.isArray(members) || members.length === 0) {
+            throw new Error("JSON vazio ou inválido");
+        }
+
+        shuffle(members);
+
+        document.getElementById("start-screen").classList.add("hidden");
+        document.getElementById("game-screen").classList.remove("hidden");
+
+        showMember();
+    } catch (err) {
+        alert("Erro ao carregar o arquivo members.json");
+        console.error(err);
+    }
+}
+
+/* =============================
+   MOSTRAR MEMBRO
+============================= */
+function showMember() {
+    const m = members[index];
+
+    const avatar = document.getElementById("avatar");
+    avatar.src = m.avatar_url || "https://cdn.discordapp.com/embed/avatars/0.png";
+
+    avatar.onerror = () => {
+        avatar.src = "https://cdn.discordapp.com/embed/avatars/0.png";
+    };
+
+    document.getElementById("displayName").innerText = m.display_name;
+    document.getElementById("username").innerText = "@" + m.username;
+
+    const remaining = members.length - index;
+    document.getElementById("progress").innerText =
+        `Restam ${remaining} de ${members.length}`;
+    
+        document.getElementById("feedback").innerText = "";
+document.getElementById("feedback").className = "";
+
+}
+
+
+/* =============================
+   RESPOSTA
+============================= */
+function answer(value) {
+    const m = members[index];
+    const feedback = document.getElementById("feedback");
+
+    const isCorrect = value === m.has_mestre_mirim;
+
+    if (isCorrect) {
+        correct++;
+        feedback.innerText = "Acertou!";
+        feedback.className = "feedback-correct";
+    } else {
+        mistakes.push(m);
+        feedback.innerText = "Errou!";
+        feedback.className = "feedback-wrong";
+    }
+
+    // Desativa botões temporariamente
+    document.querySelectorAll("#game-screen button")
+        .forEach(btn => btn.disabled = true);
+
+    setTimeout(() => {
+        index++;
+
+        if (index < members.length) {
+            feedback.innerText = "";
+            feedback.className = "";
+
+            showMember();
+
+            // Reativa botões
+            document.querySelectorAll("#game-screen button")
+                .forEach(btn => btn.disabled = false);
+        } else {
+            showResults();
+        }
+    }, 800);
+}
+
+
+/* =============================
+   RESULTADOS
+============================= */
+function showResults() {
+    document.getElementById("game-screen").classList.add("hidden");
+    document.getElementById("result-screen").classList.remove("hidden");
+
+    document.getElementById("score").innerText =
+        `Você acertou ${correct} de ${members.length}`;
+
+    const errorsDiv = document.getElementById("errors");
+    errorsDiv.innerHTML = "<h3>Você errou:</h3>";
+
+    if (mistakes.length === 0) {
+        errorsDiv.innerHTML += "<p>Nenhum erro! 👑</p>";
+        return;
+    }
+
+    mistakes.forEach(m => {
+        const div = document.createElement("div");
+        div.className = "error-item";
+
+        div.innerHTML = `
+            <img src="${m.avatar_url}" alt="Avatar">
+            <span>
+                <strong>${m.display_name}</strong><br>
+                ${m.has_mestre_mirim ? "Tinha Mestre Mirim" : "Não tinha Mestre Mirim"}
+            </span>
+        `;
+
+        errorsDiv.appendChild(div);
+    });
+}
+
+/* =============================
+   EMBARALHAR LISTA
+============================= */
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+</script>
+
+</body>
+</html>
